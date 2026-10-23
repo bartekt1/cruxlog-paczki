@@ -1,6 +1,6 @@
 name: Zbuduj paczki
 
-# Po każdej zmianie bazy (pliki w baza/) dzieli ją na paczki i uaktualnia spis index.json.
+# Po każdej zmianie bazy (pliki w baza/) nadaje brakujące numery, dzieli bazę na paczki i uaktualnia spis index.json.
 on:
   push:
     branches: [main]
@@ -24,7 +24,7 @@ jobs:
         run: |
           git config user.name "cruxlog-paczki"
           git config user.email "actions@users.noreply.github.com"
-          git add -A paczki index.json
+          git add -A baza paczki index.json narzedzia/numery.json NASTEPNE_NUMERY.txt
           if git diff --cached --quiet; then echo "Bez zmian w paczkach."; exit 0; fi
-          git commit -m "Paczki: zbudowane z bazy"
+          git commit -m "Paczki: zbudowane z bazy (i nadane numery)"
           git push

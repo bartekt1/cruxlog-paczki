@@ -1,0 +1,3 @@
+Następne wolne numery (gdybyś chciał wpisać numer sam; puste komórki automat wypełni sam):
+skała: sk-0045
+droga: dr-0516
