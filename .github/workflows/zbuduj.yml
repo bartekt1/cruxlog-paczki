@@ -1,0 +1,30 @@
+name: Zbuduj paczki
+
+# Po każdej zmianie bazy (pliki w baza/) dzieli ją na paczki i uaktualnia spis index.json.
+on:
+  push:
+    branches: [main]
+    paths: ['baza/**', 'narzedzia/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - name: Podziel bazę na paczki
+        run: node narzedzia/zbuduj.mjs
+      - name: Zapisz paczki i spis
+        run: |
+          git config user.name "cruxlog-paczki"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A paczki index.json
+          if git diff --cached --quiet; then echo "Bez zmian w paczkach."; exit 0; fi
+          git commit -m "Paczki: zbudowane z bazy"
+          git push
