@@ -1,0 +1,145 @@
+﻿Region;Rejon;Grupa;Skała;Sektor;Nazwa;Typ;Wycena;Skala_wycen;Długość;Przeloty;Autor;Rok;Opis;Lat;Lng;Przybliżone;Opis_skały;Dojście;ID_skały;ID_drogi
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Plecak;droga;V-;kr;10;2;;;;49.740437;21.820829;;;;sk-0027;dr-0243
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Czarny Mnich;;Mniszek lekarski;droga;VI+;kr;10;3;;;;49.741124;21.822465;tak;;;sk-0028;dr-0244
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Czarny Mnich;;Wino mszalne;droga;VI.1+;kr;10;4;;;;;;;;;sk-0028;dr-0245
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Czarny Mnich;;Czarny rycerz;droga;VI.1+;kr;10;4;;;;;;;;;sk-0028;dr-0246
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Czarny Mnich;;W imię ojca;droga;VI.2;kr;10;4;;;;;;;;;sk-0028;dr-0247
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Czarny Mnich;;Sekret mnicha;droga;VI.2+;kr;10;4;;;;;;;;;sk-0028;dr-0248
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Czarny Mnich;;Ciemna strona mocy;droga;VI.3;kr;10;5;;;;;;;;;sk-0028;dr-0249
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Czarny Mnich;;Cud dotyku;droga;VI.4;kr;10;4;;;;;;;;;sk-0028;dr-0250
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Czarny Mnich;;Zacierka z bromem;droga;VI.5;kr;10;5;;;;;;;;;sk-0028;dr-0251
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Rynna beskidników;droga;II;kr;12;;;;;49.740718;21.821367;;;;sk-0029;dr-0252
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Skutek uboczny;droga;VI-;kr;12;7;;;;;;;;;sk-0029;dr-0253
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Żyłka słoneczna;droga;VI+;kr;12;6;;;;;;;;;sk-0029;dr-0254
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Nie demonizuj;droga;VI+;kr;10;3;;;;;;;;;sk-0029;dr-0255
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Księżycowa tętniczka;droga;VI.1/1+;kr;12;5;;;;;;;;;sk-0029;dr-0256
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Żyłka direkt;droga;VI.1;kr;12;6;;;;;;;;;sk-0029;dr-0257
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Mechagodzilla;droga;VI.1;kr;12;5;;;;;;;;;sk-0029;dr-0258
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Wizjoner;droga;VI.1/1+;kr;12;5;;;;;;;;;sk-0029;dr-0259
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Efekt upału;droga;VI.1+;kr;12;7;;;;;;;;;sk-0029;dr-0260
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Demonstracja;droga;VI.2+;kr;12;5;;;;;;;;;sk-0029;dr-0261
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Jasnowidz;droga;VI.3;kr;12;5;;;;;;;;;sk-0029;dr-0262
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Nie histeryzuj;droga;VI.3/3+;kr;10;4;;;;;;;;;sk-0029;dr-0263
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Pani Demonium;droga;VI.4;kr;12;4;;;;;;;;;sk-0029;dr-0264
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Balrog;droga;VI.4+;kr;12;5;;;;;;;;;sk-0029;dr-0265
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Demon;;Moloch;droga;VI.4+;kr;12;5;;;;;;;;;sk-0029;dr-0266
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Komu bije dzwon;droga;V-;kr;14;3;;;;49.741306;21.822737;;;;sk-0030;dr-0267
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Pieśni odczarowania;droga;VI-;kr;12;6;;;;;;;;;sk-0030;dr-0268
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Wienio;droga;VI-;kr;12;6;;;;;;;;;sk-0030;dr-0269
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Sześć minus tylko z nazwy;droga;VI-;kr;14;5;;;;;;;;;sk-0030;dr-0270
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Noyalain;droga;VI;kr;12;6;;;;;;;;;sk-0030;dr-0271
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Aion;droga;VI+;kr;12;5;;;;;;;;;sk-0030;dr-0272
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Czarny opal;droga;VI+;kr;12;4;;;;;;;;;sk-0030;dr-0273
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Po głaskach;droga;VI.1;kr;11;5;;;;;;;;;sk-0030;dr-0274
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Srebrne drzewo;droga;VI.1+;kr;12;5;;;;;;;;;sk-0030;dr-0275
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Jajo węża;droga;VI.1+;kr;13;5;;;;;;;;;sk-0030;dr-0276
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Przejście w czasie;droga;VI.2/2+;kr;13;5;;;;;;;;;sk-0030;dr-0277
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Oko myśliwego;droga;VI.2;kr;16;5;;;;;;;;;sk-0030;dr-0278
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Kryptofisie;droga;VI.2;kr;12;5;;;;;;;;;sk-0030;dr-0279
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Wyprawa do wewnątrz;droga;VI.2+;kr;12;5;;;;;;;;;sk-0030;dr-0280
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Podróż Brana;droga;VI.2+;kr;12;5;;;;;;;;;sk-0030;dr-0281
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Guzik z pętelką;droga;VI.2+;kr;11;5;;;;;;;;;sk-0030;dr-0282
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Wyposzczony z lasu;droga;VI.2+;kr;12;5;;;;;;;;;sk-0030;dr-0283
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Wąż zbrojony;droga;VI.3;kr;14;5;;;;;;;;;sk-0030;dr-0284
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;W królestwie umierającego słońca;droga;VI.3+;kr;13;5;;;;;;;;;sk-0030;dr-0285
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Off the Ground;droga;VI.3+;kr;12;6;;;;;;;;;sk-0030;dr-0286
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Bukaciarnia;droga;VI.3+;kr;11;4;;;;;;;;;sk-0030;dr-0287
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Grande Valse Brillante;droga;VI.4;kr;13;6;;;;;;;;;sk-0030;dr-0288
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Poławiacz dusz;droga;VI.4+;kr;13;6;;;;;;;;;sk-0030;dr-0289
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Sagittarius B;droga;VI.4+;kr;14;5;;;;;;;;;sk-0030;dr-0290
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Żółty skaj;droga;VI.4+;kr;12;6;;;;;;;;;sk-0030;dr-0291
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Szpek zawiotki;droga;VI.4+;kr;12;6;;;;;;;;;sk-0030;dr-0292
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Nuda Mantyłło;droga;VI.4+;kr;12;5;;;;;;;;;sk-0030;dr-0293
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Sagittarius A;droga;VI.5;kr;14;6;;;;;;;;;sk-0030;dr-0294
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Muchomoria;droga;VI.5;kr;12;5;;;;;;;;;sk-0030;dr-0295
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Dzwon;;Tragedia wspólnego pastwiska;droga;VI.5/5+;kr;12;6;;;;;;;;;sk-0030;dr-0296
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Siła powołania;droga;V;kr;10;4;;;;49.742476;21.825463;;;;sk-0031;dr-0297
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Ryska geologów;droga;V;kr;7;3;;;;;;;;;sk-0031;dr-0298
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Tygrysek;droga;VI;kr;6;3;;;;;;;;;sk-0031;dr-0299
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Wadliwy myśliwy;droga;VI.1;kr;8;4;;;;;;;;;sk-0031;dr-0300
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Jestem drzewo, jestem ptak;droga;VI.1;kr;8;4;;;;;;;;;sk-0031;dr-0301
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Kobra;droga;VI.1;kr;7;3;;;;;;;;;sk-0031;dr-0302
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Czas apokalipsy;droga;VI.1;kr;7;3;;;;;;;;;sk-0031;dr-0303
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Kaczor śmierci;droga;VI.1;kr;6;3;;;;;;;;;sk-0031;dr-0304
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Hornet;droga;VI.1+;kr;8;4;;;;;;;;;sk-0031;dr-0305
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Wasp on the Wall;droga;VI.1+;kr;8;4;;;;;;;;;sk-0031;dr-0306
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Unforgiven;droga;VI.1+;kr;8;4;;;;;;;;;sk-0031;dr-0307
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Kangurek;droga;VI.1+;kr;8;3;;;;;;;;;sk-0031;dr-0308
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Charlotte;droga;VI.4;kr;8;4;;;;;;;;;sk-0031;dr-0309
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Jaskółka;;Eggocentryzm (sport);droga;VI.4+;kr;8;4;;;;;;;;;sk-0031;dr-0310
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Kominek Miecia Ganowca;droga;VI;kr;12;4;;;;;;;;;sk-0027;dr-0311
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Plecak dla smakoszy;droga;VI.1;kr;13;4;;;;;;;;;sk-0027;dr-0312
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Summermoon;droga;VI.1;kr;12;4;;;;;;;;;sk-0027;dr-0313
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Parampompero;droga;VI.1+;kr;14;5;;;;;;;;;sk-0027;dr-0314
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Dionysus;droga;VI.3+;kr;15;8;;;;;;;;;sk-0027;dr-0315
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Alterland;droga;VI.4;kr;14;6;;;;;;;;;sk-0027;dr-0316
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Anastasis;droga;VI.4/4+;kr;12;4;;;;;;;;;sk-0027;dr-0317
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Space Crack;droga;VI.4+;kr;12;4;;;;;;;;;sk-0027;dr-0318
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Immunitet zajebistości;droga;VI.4+;kr;14;7;;;;;;;;;sk-0027;dr-0319
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Tydzień na działce;droga;VI.4+;kr;15;8;;;;;;;;;sk-0027;dr-0320
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Sokół Millenium;droga;VI.5/5+;kr;13;5;;;;;;;;;sk-0027;dr-0321
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Alter ego;droga;VI.5;kr;14;5;;;;;;;;;sk-0027;dr-0322
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Papierowy szablon;droga;VI.5;kr;14;7;;;;;;;;;sk-0027;dr-0323
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Kantgeist;droga;VI.5+/6;kr;13;5;;;;;;;;;sk-0027;dr-0324
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Chipped Szum układa las;droga;VI.5+/6;kr;12;6;;;;;;;;;sk-0027;dr-0325
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Wintersun;droga;VI.5+;kr;12;5;;;;;;;;;sk-0027;dr-0326
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Zeitgeist;droga;VI.6;kr;13;5;;;;;;;;;sk-0027;dr-0327
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Obelisk;;Incinatus;droga;VI.6;kr;13;5;;;;;;;;;sk-0027;dr-0328
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Owca;;Złamana strzała;droga;IV;kr;10;4;;;;49.741894;21.823944;;;;sk-0032;dr-0329
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Owca;;Bydlęta klękają;droga;VI-;kr;5;1;;;;;;;;;sk-0032;dr-0330
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Owca;;Mózg jagnięcia;droga;VI-;kr;10;4;;;;;;;;;sk-0032;dr-0331
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Owca;;Potęga wiary;droga;V+;kr;10;3;;;;;;;;;sk-0032;dr-0332
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Owca;;Łowczy pęd;droga;VI;kr;8;3;;;;;;;;;sk-0032;dr-0333
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Owca;;Wyłupiaste oko;droga;VI+;kr;10;3;;;;;;;;;sk-0032;dr-0334
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Owca;;Indiańskie oblicze;droga;VI;kr;8;4;;;;;;;;;sk-0032;dr-0335
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Owca;;Stado baranów;droga;VI.1+;kr;10;3;;;;;;;;;sk-0032;dr-0336
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Owca;;Owca androidów;droga;VI.4;kr;10;4;;;;;;;;;sk-0032;dr-0337
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Owca;;Guzik owcy;droga;VI.4+;kr;12;4;;;;;;;;;sk-0032;dr-0338
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Sarni Murek;;Polish Ham;droga;V-;kr;6;2;;;;49.740163;21.820233;;;;sk-0033;dr-0339
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Sarni Murek;;Alania;droga;VI+/VI.1;kr;6;3;;;;;;;;;sk-0033;dr-0340
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Sarni Murek;;Ostatnia paróweczka;droga;VI;kr;6;3;;;;;;;;;sk-0033;dr-0341
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Sarni Murek;;Przyziemienie;droga;VI+;kr;6;3;;;;;;;;;sk-0033;dr-0342
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Sarni Murek;;Wołowina;droga;VI.1/1+;kr;6;2;;;;;;;;;sk-0033;dr-0343
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Sarni Murek;;Masarnia;droga;VI.1/1+;kr;6;3;;;;;;;;;sk-0033;dr-0344
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Sarni Murek;;Maszynka;droga;VI.1;kr;6;2;;;;;;;;;sk-0033;dr-0345
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Sarni Murek;;Po prostu bydło;droga;VI.1+;kr;6;2;;;;;;;;;sk-0033;dr-0346
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Sarni Murek;;Bjoern Żelaznoboki;droga;VI.2/2+;kr;6;3;;;;;;;;;sk-0033;dr-0347
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Sarni Murek;;Jorund Byk;droga;VI.2+;kr;6;3;;;;;;;;;sk-0033;dr-0348
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szaman;;Smuga cienia;droga;V+;kr;5;2;;;;49.741143;21.822523;;;;sk-0034;dr-0349
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szaman;;Ognisty podmuch;droga;VI-;kr;5;2;;;;;;;;;sk-0034;dr-0350
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szaman;;W krainie wiecznego snu;droga;VI+/VI.1;kr;5;3;;;;;;;;;sk-0034;dr-0351
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szaman;;Totem leśnych ludzi;droga;VI+;kr;5;2;;;;;;;;;sk-0034;dr-0352
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szaman;;Maskarada;droga;VI;kr;5;3;;;;;;;;;sk-0034;dr-0353
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szaman;;Płonący szaman;droga;VI+;kr;5;2;;;;;;;;;sk-0034;dr-0354
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szaman;;Brązowa kupa;droga;VI.1;kr;5;2;;;;;;;;;sk-0034;dr-0355
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szaman;;Brązowy szerszeń;droga;VI.1;kr;5;2;;;;;;;;;sk-0034;dr-0356
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szaman;;W krainie wiecznych marzeń;droga;VI.1/1+;kr;5;2;;;;;;;;;sk-0034;dr-0357
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szaman;;Ruchomy chodnik;droga;VI.1/1+;kr;5;2;;;;;;;;;sk-0034;dr-0358
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szaman;;Nalot dywanowy;droga;VI.1+;kr;5;3;;;;;;;;;sk-0034;dr-0359
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szarlatan;;Odwaga cywilna;droga;VI+;kr;8;2;;;;49.741124;21.822465;;;;sk-0035;dr-0360
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szarlatan;;Obywatel Q.P.;droga;VI;kr;8;3;;;;;;;;;sk-0035;dr-0361
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szarlatan;;Człowiek, którego nie było;droga;VI.1+;kr;8;2;;;;;;;;;sk-0035;dr-0362
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Szarlatan;;Lenifair;droga;VI.3;kr;8;3;;;;;;;;;sk-0035;dr-0363
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Klatka schodowa;droga;VI-;kr;19;6;;;;49.740895;21.822031;;;;sk-0036;dr-0364
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Kwestia smaku;droga;VI+;kr;19;5;;;;;;;;;sk-0036;dr-0365
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Zielony koszyk;droga;VI+;kr;16;5;;;;;;;;;sk-0036;dr-0366
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Kwestia gustu;droga;VI.1;kr;19;6;;;;;;;;;sk-0036;dr-0367
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Dead Can Dance;droga;VI.1+;kr;15;5;;;;;;;;;sk-0036;dr-0368
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Saltarello;droga;VI.1/1+;kr;16;5;;;;;;;;;sk-0036;dr-0369
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Preludium do Bobasa;droga;VI.1+;kr;18;7;;;;;;;;;sk-0036;dr-0370
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Amnezja;droga;VI.1+;kr;18;7;;;;;;;;;sk-0036;dr-0371
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Oszczędny koszyk;droga;VI.2;kr;19;5;;;;;;;;;sk-0036;dr-0372
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Koincydencja;droga;VI.2+;kr;18;8;;;;;;;;;sk-0036;dr-0373
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Babki z piasku;droga;VI.2+;kr;22;7;;;;;;;;;sk-0036;dr-0374
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Departum;droga;VI.3;kr;18;8;;;;;;;;;sk-0036;dr-0375
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Zielony koszyk direkt;droga;VI.3/3+;kr;16;5;;;;;;;;;sk-0036;dr-0376
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Anatomizacja;droga;VI.3+;kr;18;8;;;;;;;;;sk-0036;dr-0377
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Przykry bald;droga;VI.3+;kr;20;8;;;;;;;;;sk-0036;dr-0378
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Big Grain Production;droga;VI.3+;kr;20;6;;;;;;;;;sk-0036;dr-0379
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Tu się zgina dziób pingwina;droga;VI.4/4+;kr;19;5;;;;;;;;;sk-0036;dr-0380
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Preludium direkt;droga;VI.4;kr;19;7;;;;;;;;;sk-0036;dr-0381
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Będziemy diamentowym piachem;droga;VI.4;kr;20;5;;;;;;;;;sk-0036;dr-0382
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Lateksowe lochy;droga;VI.4;kr;17;7;;;;;;;;;sk-0036;dr-0383
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Not Hand;droga;VI.4;kr;15;5;;;;;;;;;sk-0036;dr-0384
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Farscape;droga;VI.4+;kr;20;8;;;;;;;;;sk-0036;dr-0385
+Pogórze Dynowskie;Skałki Czarnorzeckie;Sokoli Grzbiet;Wysoka;;Królowa rzęchów;droga;VI.4+;kr;16;6;;;;;;;;;sk-0036;dr-0386

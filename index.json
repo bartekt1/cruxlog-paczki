@@ -1,5 +1,96 @@
 {
   "format": 1,
-  "updated": "2026-10-23T14:26:08.761Z",
-  "packs": []
+  "updated": "2026-10-23T14:36:17.782Z",
+  "packs": [
+    {
+      "id": "skalki-czarnorzeckie-kamieniec",
+      "name": "Kamieniec",
+      "region": "Pogórze Dynowskie",
+      "area": "Skałki Czarnorzeckie",
+      "crags": 11,
+      "routes": 148,
+      "version": 1,
+      "sha1": "7ea9fa32fe9803a70743925374d60345ac9aa2a9",
+      "bytes": 19753,
+      "file": "paczki/skalki-czarnorzeckie-kamieniec.csv",
+      "bbox": [
+        21.784586,
+        49.742192,
+        21.78625,
+        49.742927
+      ]
+    },
+    {
+      "id": "skalki-czarnorzeckie-przelom-marcinka",
+      "name": "Przełom Marcinka",
+      "region": "Pogórze Dynowskie",
+      "area": "Skałki Czarnorzeckie",
+      "crags": 8,
+      "routes": 56,
+      "version": 1,
+      "sha1": "ca31eeec8665af59410a6a4e33e34c66e32d5efc",
+      "bytes": 7668,
+      "file": "paczki/skalki-czarnorzeckie-przelom-marcinka.csv",
+      "bbox": [
+        21.79552,
+        49.741389,
+        21.795556,
+        49.741542
+      ]
+    },
+    {
+      "id": "skalki-czarnorzeckie-smoczy-grzbiet",
+      "name": "Smoczy Grzbiet",
+      "region": "Pogórze Dynowskie",
+      "area": "Skałki Czarnorzeckie",
+      "crags": 7,
+      "routes": 38,
+      "version": 1,
+      "sha1": "1feaf208170be86baa01d505703a94c1f8a7e369",
+      "bytes": 5025,
+      "file": "paczki/skalki-czarnorzeckie-smoczy-grzbiet.csv",
+      "bbox": [
+        21.781855,
+        49.743761,
+        21.783827,
+        49.745035
+      ]
+    },
+    {
+      "id": "skalki-czarnorzeckie-sokoli-grzbiet",
+      "name": "Sokoli Grzbiet",
+      "region": "Pogórze Dynowskie",
+      "area": "Skałki Czarnorzeckie",
+      "crags": 10,
+      "routes": 144,
+      "version": 1,
+      "sha1": "4bba32a1aeb5d1e8d5aec9d86291599e117bdb74",
+      "bytes": 18229,
+      "file": "paczki/skalki-czarnorzeckie-sokoli-grzbiet.csv",
+      "bbox": [
+        21.820233,
+        49.740163,
+        21.825463,
+        49.742476
+      ]
+    },
+    {
+      "id": "skalki-czarnorzeckie-strzelnica",
+      "name": "Strzelnica",
+      "region": "Pogórze Dynowskie",
+      "area": "Skałki Czarnorzeckie",
+      "crags": 8,
+      "routes": 129,
+      "version": 1,
+      "sha1": "99041a6e9b8c01e3a323f70e04c02b6a5194f07a",
+      "bytes": 16018,
+      "file": "paczki/skalki-czarnorzeckie-strzelnica.csv",
+      "bbox": [
+        21.818317,
+        49.743581,
+        21.821214,
+        49.743972
+      ]
+    }
+  ]
 }
