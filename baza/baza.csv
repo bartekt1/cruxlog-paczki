@@ -1,4 +1,4 @@
-Region;Rejon;Grupa;Skała;Sektor;Nazwa;Typ;Wycena;Skala_wycen;Długość;Przeloty;Autor;Rok;Opis;Lat;Lng;Przybliżone;Opis_skały;Dojście;ID_skały;ID_drogi
+﻿Region;Rejon;Grupa;Skała;Sektor;Nazwa;Typ;Wycena;Skala_wycen;Długość;Przeloty;Autor;Rok;Opis;Lat;Lng;Przybliżone;Opis_skały;Dojście;ID_skały;ID_drogi
 Pogórze Dynowskie;Skałki Czarnorzeckie;Kamieniec;Bąbel;;Kuratorium Oświaty;droga;VI.3;kr;14;5;;;;49.742609;21.785266;;;;sk-0001;dr-0001
 Pogórze Dynowskie;Skałki Czarnorzeckie;Kamieniec;Bąbel;;Gdy niebo granat ściemnia;droga;VI.4;kr;15;6;;;;;;;;;sk-0001;dr-0002
 Pogórze Dynowskie;Skałki Czarnorzeckie;Kamieniec;Bąbel;;Thorin Dębowa Tarcza;droga;VI.4+;kr;12;4;;;;;;;;;sk-0001;dr-0003
@@ -514,377 +514,364 @@ Pogórze Dynowskie;Skałki Czarnorzeckie;Strzelnica;Wielki Okap;;Sosnowatek;drog
 Pogórze Dynowskie;Skałki Czarnorzeckie;Strzelnica;Wielki Okap;;Mad Mixon;droga;VI.4;kr;11;4;;;;;;;;;sk-0044;dr-0513
 Pogórze Dynowskie;Skałki Czarnorzeckie;Strzelnica;Wielki Okap;;Afrodyta;droga;VI.4;kr;12;5;;;;;;;;;sk-0044;dr-0514
 Pogórze Dynowskie;Skałki Czarnorzeckie;Strzelnica;Wielki Okap;;Atletyka;droga;VI.5;kr;12;6;;;;;;;;;sk-0044;dr-0515
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Vstupná veža;;III+;UIAA;;;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Vstupna;;V;UIAA;;;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Vpravo od Paklenice;;V+;UIAA;;;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Táborový oheň;;VI+;UIAA;;;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Variant Sedempádovej;;VII-;UIAA;;;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Malý Mních;;Nedeľné ráno;;VII+;UIAA;;;;;;48.9863727;20.7761174;;;;;
-Slanské vrchy;Drevenik;Raj;Amerika;;Wyoming;droga;V-;UIAA;13;5;;;;48.988106;20.775222;tak;;;;
-Slanské vrchy;Drevenik;Raj;Amerika;;Arizona;droga;V;UIAA;13;5;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Amerika;;Nevada;droga;V;UIAA;13;6;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Amerika;;Colorado;droga;V+;UIAA;14;9;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Amerika;;Vľavo od Colorada;;VI-;UIAA;;;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Dvojitá veža;;Biely sex;;V;UIAA;8;3;;;;48.987469;20.774251;tak;;;;
-Slanské vrchy;Drevenik;Raj;Dvojitá veža;;Vymytá;;VI-;UIAA;12;4;;;;48.9870081;20.7755300;tak;;;;
-Slanské vrchy;Drevenik;Raj;Dvojitá veža;;Dvojitá;;VI;UIAA;12;5;;;;48.9870081;20.7755300;tak;;;;
-Slanské vrchy;Drevenik;Raj;Dvojitá veža;;Ľavý hák;;VII+;UIAA;12;4;;;;48.9870081;20.7755300;tak;;;;
-Slanské vrchy;Drevenik;Raj;Dvojitá veža;;Slivkov boulder;;VIII-;UIAA;;;;;;48.9870081;20.7755300;tak;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Sólová;droga;III+;UIAA;6;3;;;;48.986832;20.775222;tak;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Zimná;droga;IV;UIAA;6;2;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Malý komín;droga;V;UIAA;12;3;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Hodiny - Malá veža;;V+;UIAA;;;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Jesenná;droga;V+;UIAA;8;4;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Kratučká;droga;V+;UIAA;6;3;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Kríž;droga;V+;UIAA;12;;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Brucho;droga;VI;UIAA;6;3;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Druhý dych;droga;VI;UIAA;13;6;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Hodiny;droga;VI;UIAA;12;;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Letná;droga;VI;UIAA;8;4;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Zarezávačky;droga;VI;UIAA;13;5;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Zemeguľa;droga;VI;UIAA;6;4;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Zárez;;VI;UIAA;12;;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Glóbuska;droga;VI+;UIAA;13;;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Jarná;droga;VII-;UIAA;8;4;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Hodiny priamo;droga;VII;UIAA;13;4;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Malá veža;;VII;UIAA;14;4;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Memorial;droga;VII;UIAA;13;5;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Naskakovačka;droga;VII;UIAA;13;;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Glóbuska;;Variant hodín;droga;VII;UIAA;12;4;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Zaujímavá špára;droga;V-;UIAA;8;4;;;;48.987018;20.775909;tak;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Kapurková;;V+;UIAA;8;;;;;48.9866679;20.7762569;tak;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Lavý pilier;;V+;UIAA;;;;;;48.9866679;20.7762569;tak;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Lážo plážo;droga;V+;UIAA;12;6;;;;48.9866679;20.7762569;tak;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Strecha z kúta;;V+;UIAA;15;6;;;;48.9866679;20.7762569;tak;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;V tieni stromu;droga;VI-;UIAA;8;4;;;;48.9866679;20.7762569;tak;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Drozdov previs;droga;VI;UIAA;12;5;;;;48.9866679;20.7762569;tak;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Grófka;droga;VI;UIAA;12;5;;;;48.9866679;20.7762569;tak;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Hodkovský pilier;droga;VII;UIAA;12;2;;;;48.9866679;20.7762569;tak;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Ľudia z hôr;droga;VII;UIAA;10;5;;;;48.9866679;20.7762569;tak;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Malá grófka;;VII+;UIAA;;;;;;48.9866679;20.7762569;tak;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Karaoke;droga;VIII;UIAA;8;3;;;;48.9866679;20.7762569;tak;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Mladá grófka (Proj.);droga;VIII?;UIAA;12;;;;;48.9866679;20.7762569;tak;;;;
-Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Dlhé lakte;droga;VIII+;UIAA;8;3;;;;48.9866679;20.7762569;tak;;;;
-Slanské vrchy;Drevenik;Raj;Malá bariéra;;Júnová;droga;V;UIAA;6;3;;;;48.987706;20.774992;;;;;
-Slanské vrchy;Drevenik;Raj;Malá bariéra;;Májová;droga;V;UIAA;6;3;;;;48.9877060;20.7749923;;;;;
-Slanské vrchy;Drevenik;Raj;Malá bariéra;;Pizza junky;droga;V;UIAA;6;3;;;;48.9877060;20.7749923;;;;;
-Slanské vrchy;Drevenik;Raj;Malá bariéra;;Lev;droga;V+;UIAA;6;3;;;;48.9877060;20.7749923;;;;;
-Slanské vrchy;Drevenik;Raj;Malá bariéra;;Veľkonočná;droga;VI;UIAA;6;3;;;;48.9877060;20.7749923;;;;;
-Slanské vrchy;Drevenik;Raj;Malý Mních;;Májová Veselica;;IV+;UIAA;17;2;;;;48.9863727;20.7761174;;;;;
-Slanské vrchy;Drevenik;Raj;Malý Mních;;Kominárska;;V;UIAA;12;6;;;;48.9863727;20.7761174;;;;;
-Slanské vrchy;Drevenik;Raj;Malý Mních;;Prepadávačka;;V;UIAA;;;;;;48.9863727;20.7761174;;;;;
-Slanské vrchy;Drevenik;Raj;Malý Mních;;Príťažlivosť;;VI-;UIAA;14;;;;;48.9863727;20.7761174;;;;;
-Slanské vrchy;Drevenik;Raj;Malý Mních;;S stena - Malý Mních;;VI-;UIAA;;;;;;48.9863727;20.7761174;;;;;
-Slanské vrchy;Drevenik;Raj;Malý Mních;;Hodinová záležitosť;;VI+;UIAA;8;3;;;;48.9863727;20.7761174;;;;;
-Slanské vrchy;Drevenik;Raj;Malý Mních;;Rozcvička;;VII+;UIAA;17;5;;;;48.9863727;20.7761174;;;;;
-Slanské vrchy;Drevenik;Raj;Malý Mních;Veľký a malý Mních;Januárová;droga;IV+;UIAA;13;3;;;;48.986373;20.776117;;;;;
-Slanské vrchy;Drevenik;Raj;Malý Mních;Veľký a malý Mních;Klinová;droga;VI;UIAA;8;4;;;;48.9863727;20.7761174;;;;;
-Slanské vrchy;Drevenik;Raj;Malý Mních;Veľký a malý Mních;Kozmický pilier;droga;VI;UIAA;12;;;;;48.9863727;20.7761174;;;;;
-Slanské vrchy;Drevenik;Raj;Malý Mních;Veľký a malý Mních;Smädný mních;droga;VI+;UIAA;8;5;;;;48.9863727;20.7761174;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Pilier vpravo od Čakanky;;III+;UIAA;;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Zabudnutá;;IV+;UIAA;15;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Grof Caky;;V;UIAA;12;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Žltá škára;;V;UIAA;;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Jašter;;V+;UIAA;;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Platne odštepov;;V+;UIAA;15;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Platňa;;V+;UIAA;15;4;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Zbojnik Jurko;;VI;UIAA;12;3;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Vedľa Zbojníckej - vpravo;;VI+;UIAA;;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Vedľa Zbojníckej - vľavo;;VI+/VII-;UIAA;;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Tornádo;;VII-;UIAA;;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Variant ľavého drlíka;;VII-;UIAA;23;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Centrálny variant;;VII+;UIAA;13;4;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Dávne sny;;VIII;UIAA;;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;;Davisny;;VIII+;UIAA;;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Zostupovka;droga;III;UIAA;15;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Martin pilier;droga;IV-;UIAA;15;8;;;;48.987894;20.775145;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Historická;droga;IV;UIAA;14;7;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Veľké kruhy;droga;V-;UIAA;14;7;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Škárka;droga;V-;UIAA;14;7;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Jašterica;droga;V;UIAA;14;5;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Nehrešte prosím;droga;V;UIAA;14;7;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Odštepy;droga;V;UIAA;14;7;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Hrana odštepov;droga;V+;UIAA;14;7;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Čakanka;droga;V+;UIAA;14;6;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Káčer Donald;droga;VI;UIAA;14;6;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Mária;droga;VI;UIAA;14;6;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Pinokio;droga;VI;UIAA;14;6;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Filoména;droga;VII-;UIAA;12;6;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Marta;droga;VIII-;UIAA;14;7;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Jubilejna pusa;droga;VI;UIAA;23;9;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Šípkový čaj;droga;VI;UIAA;23;1;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Šípový ker;droga;VI;UIAA;23;9;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Lavi Drlik;droga;VII-;UIAA;23;8;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Vertical Reality;droga;VII-;UIAA;23;8;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Nočná mora;droga;VII;UIAA;23;7;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Pravý Drlík;droga;VII+;UIAA;23;8;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Severná Marta / Zadná Marta;Rozlezovka;droga;IV+;UIAA;6;3;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Severná Marta / Zadná Marta;Stará cesta;droga;V+;UIAA;23;9;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Warm up;droga;V-;UIAA;6;3;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Piknik;droga;VI;UIAA;13;5;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Sarah Connor;droga;VI;UIAA;10;4;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Terminátor;droga;VI;UIAA;11;5;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Zbojnícka;droga;VI;UIAA;10;5;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Hrajnoha;droga;VI+;UIAA;10;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Pacho;droga;VI+;UIAA;10;;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Jarova;droga;VII-;UIAA;13;4;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Polačekovi na pamiatku;droga;VII-/VII;UIAA;13;5;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Petrenčákova;droga;VII;UIAA;13;4;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Poláčkov variant;droga;VII+;UIAA;13;5;;;;48.9878938;20.7751446;;;;;
-Slanské vrchy;Drevenik;Raj;Maryškina veža;;Maruškina veža;droga;VI;UIAA;22;6;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Maryškina veža;;Disko;droga;VI+;UIAA;22;7;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Maryškina veža;;Dvanástka;droga;VI+;UIAA;16;5;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Maryškina veža;;Ninjove skoky;droga;VII+/VIII-;UIAA;16;5;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Mesačné veže;;Monte Kuko;droga;V+;UIAA;12;3;;;;48.98792;20.775909;tak;;;;
-Slanské vrchy;Drevenik;Raj;Mesačné veže;;Svätá Terezka;;V+;UIAA;;;;;;48.9866648;20.7757962;tak;;;;
-Slanské vrchy;Drevenik;Raj;Mesačné veže;;Námesačná;droga;VI;UIAA;6;3;;;;48.9866648;20.7757962;tak;;;;
-Slanské vrchy;Drevenik;Raj;Mesačné veže;;Tarzan;droga;VI;UIAA;7;4;;;;48.9866648;20.7757962;tak;;;;
-Slanské vrchy;Drevenik;Raj;Mesačné veže;;Ľubove šibalstvá;;VI;UIAA;;;;;;48.9866648;20.7757962;tak;;;;
-Slanské vrchy;Drevenik;Raj;Mesačné veže;;Mesačná;;VI+;UIAA;10;4;;;;48.9866648;20.7757962;tak;;;;
-Slanské vrchy;Drevenik;Raj;Mesačné veže;;Feringo;droga;VII;UIAA;6;3;;;;48.9866648;20.7757962;tak;;;;
-Slanské vrchy;Drevenik;Raj;Mesačné veže;;Kikidov výmysel;droga;VII;UIAA;12;;;;;48.9866648;20.7757962;tak;;;;
-Slanské vrchy;Drevenik;Raj;Mesačné veže;;Spoločné áno;droga;VIII+;UIAA;12;5;;;;48.9866648;20.7757962;tak;;;;
-Slanské vrchy;Drevenik;Raj;Mních;;Levočská - Veľký Mních;;V+;UIAA;;;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;;Tretí Kráľ;;VI;UIAA;;;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Zostupovka;;III;UIAA;10;;;;;48.986352;20.776029;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Severný komín;;IV+;UIAA;13;3;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Záver;;IV+;UIAA;20;;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Rakvička;droga;V-;UIAA;12;;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Sviečka;droga;V-;UIAA;6;4;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Márnica;droga;V;UIAA;12;5;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;SV hrana - Veľký Mních;;V;UIAA;;;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Zvonček;;V;UIAA;14;3;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Anjelik;droga;V+;UIAA;8;3;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Pôstny deň;droga;V+;UIAA;8;4;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Kuprezák;;VI-;UIAA;15;5;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Októbrová;;VI-;UIAA;14;;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Prešovská;;VI;UIAA;20;8;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Sedem cností;droga;VI;UIAA;12;5;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Sokolík na mnícha;;VI;UIAA;10;3;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Hriešna myšlienka;droga;VI+;UIAA;8;3;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Medzi mníchmi;droga;IV+;UIAA;16;5;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Zubova cesta;droga;V;UIAA;16;4;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Levočák;droga;V+;UIAA;16;5;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Májová;droga;V+;UIAA;16;;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Moja cesta;droga;VI-;UIAA;16;5;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Severný pilier;droga;VI-;UIAA;16;4;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Celibát;droga;VI;UIAA;8;5;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Novembrová;droga;VI;UIAA;14;5;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Pustovník;droga;VI+;UIAA;8;4;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Expedičná;droga;VII-;UIAA;14;5;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Regrútska;droga;VII-;UIAA;14;5;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Neveriaci Tomáš;droga;VII+;UIAA;16;5;;;;48.9863516;20.7760289;;;;;
-Slanské vrchy;Drevenik;Raj;Planina;;Šumná škárka;;VI;UIAA;8;2;;;;48.987469;20.776193;tak;;;;
-Slanské vrchy;Drevenik;Raj;Planina;;Šumná džurka;;VI+;UIAA;8;2;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Planina;;Bikini;droga;VII;UIAA;6;4;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Planina;;No problem;droga;VII;UIAA;6;5;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Planina;;Rebel;droga;VII+;UIAA;6;4;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Planina;;T-shirt;droga;VIII+;UIAA;6;4;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Táborka;;Vľavo od Taborky;;IV;UIAA;12;1;;;;48.9883753;20.7745637;;;;;
-Slanské vrchy;Drevenik;Raj;Táborka;;Krátka;droga;IV+;UIAA;14;5;;;;48.988375;20.774564;;;;;
-Slanské vrchy;Drevenik;Raj;Táborka;;Pravá Táborka;droga;IV+;UIAA;14;5;;;;48.9883753;20.7745637;;;;;
-Slanské vrchy;Drevenik;Raj;Táborka;;Táborový previs;;IV+;UIAA;15;4;;;;48.9883753;20.7745637;;;;;
-Slanské vrchy;Drevenik;Raj;Táborka;;Ľavá Táborka;droga;IV+;UIAA;14;5;;;;48.9883753;20.7745637;;;;;
-Slanské vrchy;Drevenik;Raj;Táborka;;Taborka;;V-;UIAA;13;2;;;;48.9883753;20.7745637;;;;;
-Slanské vrchy;Drevenik;Raj;Táborka;;Pravým okrajom;;V;UIAA;15;4;;;;48.9883753;20.7745637;;;;;
-Slanské vrchy;Drevenik;Raj;Táborka;;Táborka vyrovnanie;;V+;UIAA;;;;;;48.9883753;20.7745637;;;;;
-Slanské vrchy;Drevenik;Raj;Táborka;;Táborový blesk;droga;VI+;UIAA;6;3;;;;48.9883753;20.7745637;;;;;
-Slanské vrchy;Drevenik;Raj;Táborka;;Táborový plameň;droga;VI+;UIAA;6;3;;;;48.9883753;20.7745637;;;;;
-Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Dračie vajce;;III;UIAA;6;2;;;;48.9861685;20.7762811;;;;;
-Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Lada a šarkan;;III;UIAA;6;2;;;;48.986168;20.776281;;;;;
-Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Malá hrana;;IV+;UIAA;7;;;;;48.9861685;20.7762811;;;;;
-Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Vyhryzená;droga;IV+;UIAA;6;3;;;;48.9861685;20.7762811;;;;;
-Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Žliabok;droga;IV+;UIAA;6;3;;;;48.9861685;20.7762811;;;;;
-Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Pravá;droga;VI-;UIAA;6;4;;;;48.9861685;20.7762811;;;;;
-Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Karčiho pravačka;droga;VI+;UIAA;7;4;;;;48.9861685;20.7762811;;;;;
-Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Stredná;droga;VI+;UIAA;6;4;;;;48.9861685;20.7762811;;;;;
-Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Ľavá;droga;VII-;UIAA;5;3;;;;48.9861685;20.7762811;;;;;
-Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Hromozvod;droga;VII;UIAA;7;4;;;;48.9861685;20.7762811;;;;;
-Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Pádová;droga;VII;UIAA;7;4;;;;48.9861685;20.7762811;;;;;
-Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Slon;;VII;UIAA;8;3;;;;48.9861685;20.7762811;;;;;
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Vstupná cesta var.;droga;III;UIAA;12;5;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Staré časy var.;droga;IV;UIAA;12;5;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Vstupna variant;;IV;UIAA;14;;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Vľavo od starých časov;;IV;UIAA;;;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Stredom;;IV+;UIAA;;;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Táborák;droga;V-;UIAA;14;5;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Cesta mladých;droga;V;UIAA;10;4;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Stary vstup;;V;UIAA;15;;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Staré časy;droga;V;UIAA;12;5;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Vstupná cesta;droga;V;UIAA;12;5;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Vstupná veža;;Taborovy kamen;;V+;UIAA;12;;;;;48.9882173;20.7747656;;;;;
-Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Gabriel;droga;V;UIAA;10;3;;;;48.9857689;20.7761469;tak;;;;
-Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Joffrey;;V;UIAA;9;3;;;;48.98792;20.774535;tak;;;;
-Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Lucifer;droga;V;UIAA;12;5;;;;48.9857689;20.7761469;tak;;;;
-Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;666;;V+;UIAA;;;;;;48.9857689;20.7761469;tak;;;;
-Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Angelika;droga;V+;UIAA;14;4;;;;48.9857689;20.7761469;tak;;;;
-Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Satan;;V+;UIAA;;;;;;48.9857689;20.7761469;tak;;;;
-Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Markíza;droga;VI-;UIAA;13;5;;;;48.9857689;20.7761469;tak;;;;
-Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Cesta anjelov;droga;VI;UIAA;12;5;;;;48.9857689;20.7761469;tak;;;;
-Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Sv. Peter;;VI;UIAA;;;;;;48.9857689;20.7761469;tak;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;;Marčin kút;;IV;UIAA;20;;;;;48.987469;20.775112;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;;Tradičná;;IV;UIAA;10;;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;;Jarná pieseň;;IV+;UIAA;10;3;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;;Jarná;;V;UIAA;;;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;;Lev;;V;UIAA;;;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;;Stará špára - Východný múr;;V;UIAA;;;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;;Pizza Junky;;VI-;UIAA;;;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;;Fredo - Východný múr;;VI;UIAA;;;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Marčin komín;droga;IV;UIAA;18;;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Okno;droga;V;UIAA;20;3;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Cez lúčku;droga;V+;UIAA;18;7;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Jakubova klietka;droga;V+;UIAA;18;7;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Jarov pilier;droga;V+;UIAA;18;6;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Paklenica;droga;V+;UIAA;18;7;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Žltý motýľ;droga;VI-;UIAA;18;7;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Jozefov bar;droga;VI;UIAA;15;6;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Modrý motýľ;droga;VI;UIAA;18;7;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Správny kľúč;droga;VI;UIAA;18;6;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Východný kút;droga;III+;UIAA;10;;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Pre kurzistov;droga;IV+;UIAA;14;6;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Inštruktážna;droga;V-;UIAA;12;5;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Prísavka;droga;V;UIAA;10;;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Príživník;droga;V;UIAA;10;5;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Robinova;droga;V+;UIAA;12;5;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Technická;droga;VI;UIAA;12;5;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Sedempádová;droga;VII-;UIAA;12;7;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Sedempádová direkt;droga;VII;UIAA;12;7;;;;48.9874693;20.7751116;;;;;
-Slanské vrchy;Drevenik;Raj;Zabudnutá veža;;Starý zárez;;V+;UIAA;;;;;;48.987018;20.774535;tak;;;;
-Slanské vrchy;Drevenik;Raj;Zabudnutá veža;;Ferdo;;VI;UIAA;15;;;;;;;;;;;
-Slanské vrchy;Drevenik;Raj;Čertova veža;;Hovadzina;droga;IV;UIAA;14;;;;;48.9858393;20.7762730;;;;;
-Slanské vrchy;Drevenik;Raj;Čertova veža;;Jarná pieseň;droga;V;UIAA;14;5;;;;48.9858393;20.7762730;;;;;
-Slanské vrchy;Drevenik;Raj;Čertova veža;;Kokocina;;V;UIAA;;;;;;48.9858393;20.7762730;;;;;
-Slanské vrchy;Drevenik;Raj;Čertova veža;;Sokolík;;V;UIAA;;;;;;48.9858393;20.7762730;;;;;
-Slanské vrchy;Drevenik;Raj;Čertova veža;;Diablov kút;;V+;UIAA;13;1;;;;48.9858393;20.7762730;;;;;
-Slanské vrchy;Drevenik;Raj;Čertova veža;;Nočný pilier;droga;V+;UIAA;14;5;;;;48.9858393;20.7762730;;;;;
-Slanské vrchy;Drevenik;Raj;Čertova veža;;Who cares;droga;V+;UIAA;12;4;;;;48.9858393;20.7762730;;;;;
-Slanské vrchy;Drevenik;Raj;Čertova veža;;Labutia pieseň;droga;VI;UIAA;14;4;;;;48.9858393;20.7762730;;;;;
-Slanské vrchy;Drevenik;Raj;Čertova veža;;Čertova pieseň;;VI;UIAA;12;5;;;;48.985839;20.776273;;;;;
-Slanské vrchy;Drevenik;Raj;Čertova veža;;I love you;droga;VIII-;UIAA;11;4;;;;48.9858393;20.7762730;;;;;
-Slanské vrchy;Drevenik;Raj;Čertova veža;;Expanzia;droga;VIII;UIAA;12;4;;;;48.9858393;20.7762730;;;;;
-Slanské vrchy;Drevenik;Raj;Červená veža;;Severanka;;VI+;UIAA;9;3;;;;48.988304;20.775222;;;;;
-Slanské vrchy;Drevenik;Peklo;;;Hríb;;VI;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;Narovnanie vhĺbenia;;VI;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;Sedemnasta komnata;;VII-;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;Security;;VII;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;Clock;;VIII-;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;E.T. 90;;VIII-;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;Sensei;;VIII;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;Biely balet;;VIII+/IX-;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;Bič pravdy;;VIII+;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;Malý princ;;VIII+;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;Narovnanie Bushida;;VIII+/IX-;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;Power;;VIII+;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;Sachmo;;VIII+;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;Neznam;;IX-;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;;;Pekelný hazard;;IX-;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Aligátor;;Zárez;;IV+;UIAA;12;3;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Aligátor;;Aligátor;;V;UIAA;15;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Aligátor;;Malý komín;;V;UIAA;10;3;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Aligátor;;Zlomená polica;;V;UIAA;10;3;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Aligátor;;Enzova hrana;;V+;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Aligátor;;Staré časy;;VI-;UIAA;10;3;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Aligátor;;Kus-kus;;VI;UIAA;13;3;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Aligátor;;Muťova puklina;;VI+;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Aligátor;;Čo-čo;;VI+;UIAA;10;3;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Kaňon;;Tieňovka;;VI;UIAA;12;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Kaňon;;Ementál;;VI+;UIAA;12;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Kaňon;;Ľavý Tomko;;VII+;UIAA;12;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Kaňon;;Compel;;VIII-;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Kaňon;;Pozor schod;;VIII-;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Kaňon;;Pravý Tomko;;VIII-;UIAA;12;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Kaňon;;Kaskáda;;VIII+;UIAA;16;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Kaňon;;Kontraverzia;;VIII+/IX-;UIAA;15;6;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Kaňon;;Sveťova;;VIII+;UIAA;15;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Vhĺbenie;;V;UIAA;25;8;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Dovidenia v pekle;;VI+;UIAA;25;7;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Levočská;;VII-;UIAA;28;10;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Amerika;;VII;UIAA;20;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Tlačenica;;VII;UIAA;28;13;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Pravá skobovačka;;VII+;UIAA;20;6;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Stará skobovačka;;VII+/VIII-;UIAA;22;8;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Kostrč;;VIII-;UIAA;16;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Odpočívaj v pokoji;;VIII-/VIII;UIAA;20;6;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Sliepkovi na pamiatku;;VIII-;UIAA;24;7;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Kuchárska kniha;;VIII;UIAA;22;8;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Mix;;VIII;UIAA;25;10;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Pukyho hrana;;VIII;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Stará skobovačka variant;;VIII;UIAA;22;8;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Tepša;;VIII;UIAA;15;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Cap;;VIII+;UIAA;22;6;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Roklina;;Návrat domov;;VIII+;UIAA;20;6;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Komín;;V+;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;50-tka;;VI;UIAA;18;6;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Pre Janku;;VI;UIAA;14;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Rohová cesta;;VI;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Posledný sex;;VI+;UIAA;;7;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Soňa;;VI+;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Bushido;;VII+;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Európa;;VII+;UIAA;;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Travertínové bjú;;VII+;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Vitajte v pekle;;VII+;UIAA;12;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Big Ben;;VIII-;UIAA;18;7;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Modrá knižka;;VIII-/VIII;UIAA;20;;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Všetko alebo nič;;VIII-;UIAA;22;9;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Dabl;;VIII;UIAA;20;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Kamufláž;;VIII;UIAA;20;8;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Prešovské Requiem;;VIII;UIAA;16;8;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Rambo;;VIII/VIII+;UIAA;19;8;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Tomečkova;;VIII;UIAA;17;6;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Vybitá;;VIII+/IX-;UIAA;15;7;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Balet hviezd;;IX-;UIAA;20;7;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Bonjour France;;IX-/IX;UIAA;17;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Naviažte sa prosím;;IX-/IX;UIAA;;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr I;;Svitanie;;IX-;UIAA;27;11;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Spišský párok;;V;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Západná špára;;V;UIAA;15;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Lámavý kút;;V+;UIAA;15;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Vlašanka;;VI;UIAA;16;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Šamova;;VI;UIAA;17;6;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Širočina;;VI;UIAA;17;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Highway to hell;;VI+;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Pekelný raj;;VI+;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Pepek;;VI+;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Tobogan;;VI+;UIAA;17;6;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Pekelná dovolenka;;VII-;UIAA;17;6;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Stradavia;;VII-;UIAA;17;6;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Stagnácia;;VII/VII+;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Mzda strachu;;VII+;UIAA;25;9;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Podlaha;;VII+;UIAA;16;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Večný dážď;;VII+;UIAA;25;9;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Popradská;;VIII-;UIAA;25;8;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Trip;;VIII-;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Čím ďalej, tým lepšie;;VIII-;UIAA;23;9;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Duniaci hrom;;VIII;UIAA;23;9;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Gule;;VIII;UIAA;23;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Hifi;;VIII;UIAA;18;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Oheň v oblakoch;;VIII;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Hazardná hra;;VIII+/IX-;UIAA;23;8;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Indián;;VIII+/IX-;UIAA;24;6;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;JTPDFM memory;;VIII+;UIAA;22;6;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Kovanie reťaze;;VIII+;UIAA;15;4;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Prešovský smer;;VIII+;UIAA;25;9;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Spoločná Láska;;VIII+;UIAA;23;9;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Stratený v smeti;;VIII+;UIAA;23;8;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Peklo;Západný múr II;;Zajtra to dám;;VIII+;UIAA;23;8;;;;48.9837350;20.7711473;tak;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Božskej Kája;;V;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Kolmá;;V;UIAA;;;;;;48.979796;20.781073;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Krátka;;V+;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Britva;;VI-;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Biely traverz;;VI+;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Kasiopea;;VI+;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Mistr Šnicl;;VII-;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Stará špára;;VII-;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Stará cesta;;VII;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Mistr Spit;;VII+;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;TR;;VII+;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Nová cesta;;VIII-;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Poslanie;;VIII+;UIAA;15;4;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;No smoking;;IX-;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Desaťmínus;;IX/IX+;UIAA;20;5;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Desaťmínus originál;;IX/IX+;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Klaris;;IX;UIAA;10;4;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Chromosone X;;IX+/X-;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Mikádo;;IX+/X-;UIAA;20;4;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Vždy máme čas;;IX+;UIAA;;;;;;48.9797936;20.7810688;;;;;
-Slanské vrchy;Drevenik;Červené previsy;;;Poludňajší blesk;;X-;UIAA;20;3;;;;48.9797936;20.7810688;;;;;
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Vstupná veža;;III+;UIAA;;;;;;48.9882173;20.7747656;;;;sk-0045;dr-0516
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Vstupna;;V;UIAA;;;;;;48.9882173;20.7747656;;;;sk-0045;dr-0517
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Vpravo od Paklenice;;V+;UIAA;;;;;;48.9874693;20.7751116;;;;sk-0046;dr-0518
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Táborový oheň;;VI+;UIAA;;;;;;48.9882173;20.7747656;;;;sk-0045;dr-0519
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Variant Sedempádovej;;VII-;UIAA;;;;;;48.9874693;20.7751116;;;;sk-0046;dr-0520
+Slanské vrchy;Drevenik;Raj;Malý Mních;;Nedeľné ráno;;VII+;UIAA;;;;;;48.9863727;20.7761174;;;;sk-0047;dr-0521
+Slanské vrchy;Drevenik;Raj;Amerika;;Wyoming;droga;V-;UIAA;13;5;;;;48.988106;20.775222;tak;;;sk-0048;dr-0522
+Slanské vrchy;Drevenik;Raj;Amerika;;Arizona;droga;V;UIAA;13;5;;;;;;;;;sk-0048;dr-0523
+Slanské vrchy;Drevenik;Raj;Amerika;;Nevada;droga;V;UIAA;13;6;;;;;;;;;sk-0048;dr-0524
+Slanské vrchy;Drevenik;Raj;Amerika;;Colorado;droga;V+;UIAA;14;9;;;;;;;;;sk-0048;dr-0525
+Slanské vrchy;Drevenik;Raj;Amerika;;Vľavo od Colorada;;VI-;UIAA;;;;;;;;;;;sk-0048;dr-0526
+Slanské vrchy;Drevenik;Raj;Dvojitá veža;;Biely sex;;V;UIAA;8;3;;;;48.987469;20.774251;tak;;;sk-0049;dr-0527
+Slanské vrchy;Drevenik;Raj;Dvojitá veža;;Vymytá;;VI-;UIAA;12;4;;;;48.9870081;20.7755300;tak;;;sk-0049;dr-0528
+Slanské vrchy;Drevenik;Raj;Dvojitá veža;;Dvojitá;;VI;UIAA;12;5;;;;48.9870081;20.7755300;tak;;;sk-0049;dr-0529
+Slanské vrchy;Drevenik;Raj;Dvojitá veža;;Ľavý hák;;VII+;UIAA;12;4;;;;48.9870081;20.7755300;tak;;;sk-0049;dr-0530
+Slanské vrchy;Drevenik;Raj;Dvojitá veža;;Slivkov boulder;;VIII-;UIAA;;;;;;48.9870081;20.7755300;tak;;;sk-0049;dr-0531
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Sólová;droga;III+;UIAA;6;3;;;;48.986832;20.775222;tak;;;sk-0050;dr-0532
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Zimná;droga;IV;UIAA;6;2;;;;;;;;;sk-0050;dr-0533
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Malý komín;droga;V;UIAA;12;3;;;;;;;;;sk-0050;dr-0534
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Hodiny - Malá veža;;V+;UIAA;;;;;;;;;;;sk-0050;dr-0535
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Jesenná;droga;V+;UIAA;8;4;;;;;;;;;sk-0050;dr-0536
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Kratučká;droga;V+;UIAA;6;3;;;;;;;;;sk-0050;dr-0537
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Kríž;droga;V+;UIAA;12;;;;;;;;;;sk-0050;dr-0538
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Brucho;droga;VI;UIAA;6;3;;;;;;;;;sk-0050;dr-0539
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Druhý dych;droga;VI;UIAA;13;6;;;;;;;;;sk-0050;dr-0540
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Hodiny;droga;VI;UIAA;12;;;;;;;;;;sk-0050;dr-0541
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Letná;droga;VI;UIAA;8;4;;;;;;;;;sk-0050;dr-0542
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Zarezávačky;droga;VI;UIAA;13;5;;;;;;;;;sk-0050;dr-0543
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Zemeguľa;droga;VI;UIAA;6;4;;;;;;;;;sk-0050;dr-0544
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Zárez;;VI;UIAA;12;;;;;;;;;;sk-0050;dr-0545
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Glóbuska;droga;VI+;UIAA;13;;;;;;;;;;sk-0050;dr-0546
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Jarná;droga;VII-;UIAA;8;4;;;;;;;;;sk-0050;dr-0547
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Hodiny priamo;droga;VII;UIAA;13;4;;;;;;;;;sk-0050;dr-0548
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Malá veža;;VII;UIAA;14;4;;;;;;;;;sk-0050;dr-0549
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Memorial;droga;VII;UIAA;13;5;;;;;;;;;sk-0050;dr-0550
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Naskakovačka;droga;VII;UIAA;13;;;;;;;;;;sk-0050;dr-0551
+Slanské vrchy;Drevenik;Raj;Glóbuska;;Variant hodín;droga;VII;UIAA;12;4;;;;;;;;;sk-0050;dr-0552
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Zaujímavá špára;droga;V-;UIAA;8;4;;;;48.987018;20.775909;tak;;;sk-0051;dr-0553
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Kapurková;;V+;UIAA;8;;;;;48.9866679;20.7762569;tak;;;sk-0051;dr-0554
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Lavý pilier;;V+;UIAA;;;;;;48.9866679;20.7762569;tak;;;sk-0051;dr-0555
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Lážo plážo;droga;V+;UIAA;12;6;;;;48.9866679;20.7762569;tak;;;sk-0051;dr-0556
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Strecha z kúta;;V+;UIAA;15;6;;;;48.9866679;20.7762569;tak;;;sk-0051;dr-0557
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;V tieni stromu;droga;VI-;UIAA;8;4;;;;48.9866679;20.7762569;tak;;;sk-0051;dr-0558
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Drozdov previs;droga;VI;UIAA;12;5;;;;48.9866679;20.7762569;tak;;;sk-0051;dr-0559
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Grófka;droga;VI;UIAA;12;5;;;;48.9866679;20.7762569;tak;;;sk-0051;dr-0560
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Hodkovský pilier;droga;VII;UIAA;12;2;;;;48.9866679;20.7762569;tak;;;sk-0051;dr-0561
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Ľudia z hôr;droga;VII;UIAA;10;5;;;;48.9866679;20.7762569;tak;;;sk-0051;dr-0562
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Malá grófka;;VII+;UIAA;;;;;;48.9866679;20.7762569;tak;;;sk-0051;dr-0563
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Karaoke;droga;VIII;UIAA;8;3;;;;48.9866679;20.7762569;tak;;;sk-0051;dr-0564
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Mladá grófka (Proj.);droga;VIII?;UIAA;12;;;;;48.9866679;20.7762569;tak;;;sk-0051;dr-0565
+Slanské vrchy;Drevenik;Raj;Hodkovské veže;;Dlhé lakte;droga;VIII+;UIAA;8;3;;;;48.9866679;20.7762569;tak;;;sk-0051;dr-0566
+Slanské vrchy;Drevenik;Raj;Malá bariéra;;Júnová;droga;V;UIAA;6;3;;;;48.987706;20.774992;;;;sk-0052;dr-0567
+Slanské vrchy;Drevenik;Raj;Malá bariéra;;Májová;droga;V;UIAA;6;3;;;;48.9877060;20.7749923;;;;sk-0052;dr-0568
+Slanské vrchy;Drevenik;Raj;Malá bariéra;;Pizza junky;droga;V;UIAA;6;3;;;;48.9877060;20.7749923;;;;sk-0052;dr-0569
+Slanské vrchy;Drevenik;Raj;Malá bariéra;;Lev;droga;V+;UIAA;6;3;;;;48.9877060;20.7749923;;;;sk-0052;dr-0570
+Slanské vrchy;Drevenik;Raj;Malá bariéra;;Veľkonočná;droga;VI;UIAA;6;3;;;;48.9877060;20.7749923;;;;sk-0052;dr-0571
+Slanské vrchy;Drevenik;Raj;Malý Mních;;Májová Veselica;;IV+;UIAA;17;2;;;;48.9863727;20.7761174;;;;sk-0047;dr-0572
+Slanské vrchy;Drevenik;Raj;Malý Mních;;Kominárska;;V;UIAA;12;6;;;;48.9863727;20.7761174;;;;sk-0047;dr-0573
+Slanské vrchy;Drevenik;Raj;Malý Mních;;Prepadávačka;;V;UIAA;;;;;;48.9863727;20.7761174;;;;sk-0047;dr-0574
+Slanské vrchy;Drevenik;Raj;Malý Mních;;Príťažlivosť;;VI-;UIAA;14;;;;;48.9863727;20.7761174;;;;sk-0047;dr-0575
+Slanské vrchy;Drevenik;Raj;Malý Mních;;S stena - Malý Mních;;VI-;UIAA;;;;;;48.9863727;20.7761174;;;;sk-0047;dr-0576
+Slanské vrchy;Drevenik;Raj;Malý Mních;;Hodinová záležitosť;;VI+;UIAA;8;3;;;;48.9863727;20.7761174;;;;sk-0047;dr-0577
+Slanské vrchy;Drevenik;Raj;Malý Mních;;Rozcvička;;VII+;UIAA;17;5;;;;48.9863727;20.7761174;;;;sk-0047;dr-0578
+Slanské vrchy;Drevenik;Raj;Malý Mních;Veľký a malý Mních;Januárová;droga;IV+;UIAA;13;3;;;;48.986373;20.776117;;;;sk-0047;dr-0579
+Slanské vrchy;Drevenik;Raj;Malý Mních;Veľký a malý Mních;Klinová;droga;VI;UIAA;8;4;;;;48.9863727;20.7761174;;;;sk-0047;dr-0580
+Slanské vrchy;Drevenik;Raj;Malý Mních;Veľký a malý Mních;Kozmický pilier;droga;VI;UIAA;12;;;;;48.9863727;20.7761174;;;;sk-0047;dr-0581
+Slanské vrchy;Drevenik;Raj;Malý Mních;Veľký a malý Mních;Smädný mních;droga;VI+;UIAA;8;5;;;;48.9863727;20.7761174;;;;sk-0047;dr-0582
+Slanské vrchy;Drevenik;Raj;Marta;;Pilier vpravo od Čakanky;;III+;UIAA;;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0583
+Slanské vrchy;Drevenik;Raj;Marta;;Zabudnutá;;IV+;UIAA;15;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0584
+Slanské vrchy;Drevenik;Raj;Marta;;Grof Caky;;V;UIAA;12;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0585
+Slanské vrchy;Drevenik;Raj;Marta;;Žltá škára;;V;UIAA;;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0586
+Slanské vrchy;Drevenik;Raj;Marta;;Jašter;;V+;UIAA;;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0587
+Slanské vrchy;Drevenik;Raj;Marta;;Platne odštepov;;V+;UIAA;15;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0588
+Slanské vrchy;Drevenik;Raj;Marta;;Platňa;;V+;UIAA;15;4;;;;48.9878938;20.7751446;;;;sk-0053;dr-0589
+Slanské vrchy;Drevenik;Raj;Marta;;Zbojnik Jurko;;VI;UIAA;12;3;;;;48.9878938;20.7751446;;;;sk-0053;dr-0590
+Slanské vrchy;Drevenik;Raj;Marta;;Vedľa Zbojníckej - vpravo;;VI+;UIAA;;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0591
+Slanské vrchy;Drevenik;Raj;Marta;;Vedľa Zbojníckej - vľavo;;VI+/VII-;UIAA;;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0592
+Slanské vrchy;Drevenik;Raj;Marta;;Tornádo;;VII-;UIAA;;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0593
+Slanské vrchy;Drevenik;Raj;Marta;;Variant ľavého drlíka;;VII-;UIAA;23;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0594
+Slanské vrchy;Drevenik;Raj;Marta;;Centrálny variant;;VII+;UIAA;13;4;;;;48.9878938;20.7751446;;;;sk-0053;dr-0595
+Slanské vrchy;Drevenik;Raj;Marta;;Dávne sny;;VIII;UIAA;;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0596
+Slanské vrchy;Drevenik;Raj;Marta;;Davisny;;VIII+;UIAA;;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0597
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Zostupovka;droga;III;UIAA;15;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0598
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Martin pilier;droga;IV-;UIAA;15;8;;;;48.987894;20.775145;;;;sk-0053;dr-0599
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Historická;droga;IV;UIAA;14;7;;;;48.9878938;20.7751446;;;;sk-0053;dr-0600
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Veľké kruhy;droga;V-;UIAA;14;7;;;;48.9878938;20.7751446;;;;sk-0053;dr-0601
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Škárka;droga;V-;UIAA;14;7;;;;48.9878938;20.7751446;;;;sk-0053;dr-0602
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Jašterica;droga;V;UIAA;14;5;;;;48.9878938;20.7751446;;;;sk-0053;dr-0603
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Nehrešte prosím;droga;V;UIAA;14;7;;;;48.9878938;20.7751446;;;;sk-0053;dr-0604
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Odštepy;droga;V;UIAA;14;7;;;;48.9878938;20.7751446;;;;sk-0053;dr-0605
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Hrana odštepov;droga;V+;UIAA;14;7;;;;48.9878938;20.7751446;;;;sk-0053;dr-0606
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Čakanka;droga;V+;UIAA;14;6;;;;48.9878938;20.7751446;;;;sk-0053;dr-0607
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Káčer Donald;droga;VI;UIAA;14;6;;;;48.9878938;20.7751446;;;;sk-0053;dr-0608
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Mária;droga;VI;UIAA;14;6;;;;48.9878938;20.7751446;;;;sk-0053;dr-0609
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Pinokio;droga;VI;UIAA;14;6;;;;48.9878938;20.7751446;;;;sk-0053;dr-0610
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Filoména;droga;VII-;UIAA;12;6;;;;48.9878938;20.7751446;;;;sk-0053;dr-0611
+Slanské vrchy;Drevenik;Raj;Marta;Centrálna Marta;Marta;droga;VIII-;UIAA;14;7;;;;48.9878938;20.7751446;;;;sk-0053;dr-0612
+Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Jubilejna pusa;droga;VI;UIAA;23;9;;;;48.9878938;20.7751446;;;;sk-0053;dr-0613
+Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Šípkový čaj;droga;VI;UIAA;23;1;;;;48.9878938;20.7751446;;;;sk-0053;dr-0614
+Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Šípový ker;droga;VI;UIAA;23;9;;;;48.9878938;20.7751446;;;;sk-0053;dr-0615
+Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Lavi Drlik;droga;VII-;UIAA;23;8;;;;48.9878938;20.7751446;;;;sk-0053;dr-0616
+Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Vertical Reality;droga;VII-;UIAA;23;8;;;;48.9878938;20.7751446;;;;sk-0053;dr-0617
+Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Nočná mora;droga;VII;UIAA;23;7;;;;48.9878938;20.7751446;;;;sk-0053;dr-0618
+Slanské vrchy;Drevenik;Raj;Marta;Severná Marta;Pravý Drlík;droga;VII+;UIAA;23;8;;;;48.9878938;20.7751446;;;;sk-0053;dr-0619
+Slanské vrchy;Drevenik;Raj;Marta;Severná Marta / Zadná Marta;Rozlezovka;droga;IV+;UIAA;6;3;;;;48.9878938;20.7751446;;;;sk-0053;dr-0620
+Slanské vrchy;Drevenik;Raj;Marta;Severná Marta / Zadná Marta;Stará cesta;droga;V+;UIAA;23;9;;;;48.9878938;20.7751446;;;;sk-0053;dr-0621
+Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Warm up;droga;V-;UIAA;6;3;;;;48.9878938;20.7751446;;;;sk-0053;dr-0622
+Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Piknik;droga;VI;UIAA;13;5;;;;48.9878938;20.7751446;;;;sk-0053;dr-0623
+Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Sarah Connor;droga;VI;UIAA;10;4;;;;48.9878938;20.7751446;;;;sk-0053;dr-0624
+Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Terminátor;droga;VI;UIAA;11;5;;;;48.9878938;20.7751446;;;;sk-0053;dr-0625
+Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Zbojnícka;droga;VI;UIAA;10;5;;;;48.9878938;20.7751446;;;;sk-0053;dr-0626
+Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Hrajnoha;droga;VI+;UIAA;10;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0627
+Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Pacho;droga;VI+;UIAA;10;;;;;48.9878938;20.7751446;;;;sk-0053;dr-0628
+Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Jarova;droga;VII-;UIAA;13;4;;;;48.9878938;20.7751446;;;;sk-0053;dr-0629
+Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Polačekovi na pamiatku;droga;VII-/VII;UIAA;13;5;;;;48.9878938;20.7751446;;;;sk-0053;dr-0630
+Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Petrenčákova;droga;VII;UIAA;13;4;;;;48.9878938;20.7751446;;;;sk-0053;dr-0631
+Slanské vrchy;Drevenik;Raj;Marta;Zadná Marta;Poláčkov variant;droga;VII+;UIAA;13;5;;;;48.9878938;20.7751446;;;;sk-0053;dr-0632
+Slanské vrchy;Drevenik;Raj;Maryškina veža;;Maruškina veža;droga;VI;UIAA;22;6;;;;;;;;;sk-0054;dr-0633
+Slanské vrchy;Drevenik;Raj;Maryškina veža;;Disko;droga;VI+;UIAA;22;7;;;;;;;;;sk-0054;dr-0634
+Slanské vrchy;Drevenik;Raj;Maryškina veža;;Dvanástka;droga;VI+;UIAA;16;5;;;;;;;;;sk-0054;dr-0635
+Slanské vrchy;Drevenik;Raj;Maryškina veža;;Ninjove skoky;droga;VII+/VIII-;UIAA;16;5;;;;;;;;;sk-0054;dr-0636
+Slanské vrchy;Drevenik;Raj;Mesačné veže;;Monte Kuko;droga;V+;UIAA;12;3;;;;48.98792;20.775909;tak;;;sk-0055;dr-0637
+Slanské vrchy;Drevenik;Raj;Mesačné veže;;Svätá Terezka;;V+;UIAA;;;;;;48.9866648;20.7757962;tak;;;sk-0055;dr-0638
+Slanské vrchy;Drevenik;Raj;Mesačné veže;;Námesačná;droga;VI;UIAA;6;3;;;;48.9866648;20.7757962;tak;;;sk-0055;dr-0639
+Slanské vrchy;Drevenik;Raj;Mesačné veže;;Tarzan;droga;VI;UIAA;7;4;;;;48.9866648;20.7757962;tak;;;sk-0055;dr-0640
+Slanské vrchy;Drevenik;Raj;Mesačné veže;;Ľubove šibalstvá;;VI;UIAA;;;;;;48.9866648;20.7757962;tak;;;sk-0055;dr-0641
+Slanské vrchy;Drevenik;Raj;Mesačné veže;;Mesačná;;VI+;UIAA;10;4;;;;48.9866648;20.7757962;tak;;;sk-0055;dr-0642
+Slanské vrchy;Drevenik;Raj;Mesačné veže;;Feringo;droga;VII;UIAA;6;3;;;;48.9866648;20.7757962;tak;;;sk-0055;dr-0643
+Slanské vrchy;Drevenik;Raj;Mesačné veže;;Kikidov výmysel;droga;VII;UIAA;12;;;;;48.9866648;20.7757962;tak;;;sk-0055;dr-0644
+Slanské vrchy;Drevenik;Raj;Mesačné veže;;Spoločné áno;droga;VIII+;UIAA;12;5;;;;48.9866648;20.7757962;tak;;;sk-0055;dr-0645
+Slanské vrchy;Drevenik;Raj;Mních;;Levočská - Veľký Mních;;V+;UIAA;;;;;;48.9863516;20.7760289;;;;sk-0056;dr-0646
+Slanské vrchy;Drevenik;Raj;Mních;;Tretí Kráľ;;VI;UIAA;;;;;;48.9863516;20.7760289;;;;sk-0056;dr-0647
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Zostupovka;;III;UIAA;10;;;;;48.986352;20.776029;;;;sk-0056;dr-0648
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Severný komín;;IV+;UIAA;13;3;;;;48.9863516;20.7760289;;;;sk-0056;dr-0649
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Záver;;IV+;UIAA;20;;;;;48.9863516;20.7760289;;;;sk-0056;dr-0650
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Rakvička;droga;V-;UIAA;12;;;;;48.9863516;20.7760289;;;;sk-0056;dr-0651
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Sviečka;droga;V-;UIAA;6;4;;;;48.9863516;20.7760289;;;;sk-0056;dr-0652
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Márnica;droga;V;UIAA;12;5;;;;48.9863516;20.7760289;;;;sk-0056;dr-0653
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;SV hrana - Veľký Mních;;V;UIAA;;;;;;48.9863516;20.7760289;;;;sk-0056;dr-0654
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Zvonček;;V;UIAA;14;3;;;;48.9863516;20.7760289;;;;sk-0056;dr-0655
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Anjelik;droga;V+;UIAA;8;3;;;;48.9863516;20.7760289;;;;sk-0056;dr-0656
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Pôstny deň;droga;V+;UIAA;8;4;;;;48.9863516;20.7760289;;;;sk-0056;dr-0657
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Kuprezák;;VI-;UIAA;15;5;;;;48.9863516;20.7760289;;;;sk-0056;dr-0658
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Októbrová;;VI-;UIAA;14;;;;;48.9863516;20.7760289;;;;sk-0056;dr-0659
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Prešovská;;VI;UIAA;20;8;;;;48.9863516;20.7760289;;;;sk-0056;dr-0660
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Sedem cností;droga;VI;UIAA;12;5;;;;48.9863516;20.7760289;;;;sk-0056;dr-0661
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Sokolík na mnícha;;VI;UIAA;10;3;;;;48.9863516;20.7760289;;;;sk-0056;dr-0662
+Slanské vrchy;Drevenik;Raj;Mních;Veľký Mních;Hriešna myšlienka;droga;VI+;UIAA;8;3;;;;48.9863516;20.7760289;;;;sk-0056;dr-0663
+Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Medzi mníchmi;droga;IV+;UIAA;16;5;;;;48.9863516;20.7760289;;;;sk-0056;dr-0664
+Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Zubova cesta;droga;V;UIAA;16;4;;;;48.9863516;20.7760289;;;;sk-0056;dr-0665
+Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Levočák;droga;V+;UIAA;16;5;;;;48.9863516;20.7760289;;;;sk-0056;dr-0666
+Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Májová;droga;V+;UIAA;16;;;;;48.9863516;20.7760289;;;;sk-0056;dr-0667
+Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Moja cesta;droga;VI-;UIAA;16;5;;;;48.9863516;20.7760289;;;;sk-0056;dr-0668
+Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Severný pilier;droga;VI-;UIAA;16;4;;;;48.9863516;20.7760289;;;;sk-0056;dr-0669
+Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Celibát;droga;VI;UIAA;8;5;;;;48.9863516;20.7760289;;;;sk-0056;dr-0670
+Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Novembrová;droga;VI;UIAA;14;5;;;;48.9863516;20.7760289;;;;sk-0056;dr-0671
+Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Pustovník;droga;VI+;UIAA;8;4;;;;48.9863516;20.7760289;;;;sk-0056;dr-0672
+Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Expedičná;droga;VII-;UIAA;14;5;;;;48.9863516;20.7760289;;;;sk-0056;dr-0673
+Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Regrútska;droga;VII-;UIAA;14;5;;;;48.9863516;20.7760289;;;;sk-0056;dr-0674
+Slanské vrchy;Drevenik;Raj;Mních;Veľký a malý Mních;Neveriaci Tomáš;droga;VII+;UIAA;16;5;;;;48.9863516;20.7760289;;;;sk-0056;dr-0675
+Slanské vrchy;Drevenik;Raj;Planina;;Šumná škárka;;VI;UIAA;8;2;;;;48.987469;20.776193;tak;;;sk-0057;dr-0676
+Slanské vrchy;Drevenik;Raj;Planina;;Šumná džurka;;VI+;UIAA;8;2;;;;;;;;;sk-0057;dr-0677
+Slanské vrchy;Drevenik;Raj;Planina;;Bikini;droga;VII;UIAA;6;4;;;;;;;;;sk-0057;dr-0678
+Slanské vrchy;Drevenik;Raj;Planina;;No problem;droga;VII;UIAA;6;5;;;;;;;;;sk-0057;dr-0679
+Slanské vrchy;Drevenik;Raj;Planina;;Rebel;droga;VII+;UIAA;6;4;;;;;;;;;sk-0057;dr-0680
+Slanské vrchy;Drevenik;Raj;Planina;;T-shirt;droga;VIII+;UIAA;6;4;;;;;;;;;sk-0057;dr-0681
+Slanské vrchy;Drevenik;Raj;Táborka;;Vľavo od Taborky;;IV;UIAA;12;1;;;;48.9883753;20.7745637;;;;sk-0058;dr-0682
+Slanské vrchy;Drevenik;Raj;Táborka;;Krátka;droga;IV+;UIAA;14;5;;;;48.988375;20.774564;;;;sk-0058;dr-0683
+Slanské vrchy;Drevenik;Raj;Táborka;;Pravá Táborka;droga;IV+;UIAA;14;5;;;;48.9883753;20.7745637;;;;sk-0058;dr-0684
+Slanské vrchy;Drevenik;Raj;Táborka;;Táborový previs;;IV+;UIAA;15;4;;;;48.9883753;20.7745637;;;;sk-0058;dr-0685
+Slanské vrchy;Drevenik;Raj;Táborka;;Ľavá Táborka;droga;IV+;UIAA;14;5;;;;48.9883753;20.7745637;;;;sk-0058;dr-0686
+Slanské vrchy;Drevenik;Raj;Táborka;;Taborka;;V-;UIAA;13;2;;;;48.9883753;20.7745637;;;;sk-0058;dr-0687
+Slanské vrchy;Drevenik;Raj;Táborka;;Pravým okrajom;;V;UIAA;15;4;;;;48.9883753;20.7745637;;;;sk-0058;dr-0688
+Slanské vrchy;Drevenik;Raj;Táborka;;Táborka vyrovnanie;;V+;UIAA;;;;;;48.9883753;20.7745637;;;;sk-0058;dr-0689
+Slanské vrchy;Drevenik;Raj;Táborka;;Táborový blesk;droga;VI+;UIAA;6;3;;;;48.9883753;20.7745637;;;;sk-0058;dr-0690
+Slanské vrchy;Drevenik;Raj;Táborka;;Táborový plameň;droga;VI+;UIAA;6;3;;;;48.9883753;20.7745637;;;;sk-0058;dr-0691
+Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Dračie vajce;;III;UIAA;6;2;;;;48.9861685;20.7762811;;;;sk-0059;dr-0692
+Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Lada a šarkan;;III;UIAA;6;2;;;;48.986168;20.776281;;;;sk-0059;dr-0693
+Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Malá hrana;;IV+;UIAA;7;;;;;48.9861685;20.7762811;;;;sk-0059;dr-0694
+Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Vyhryzená;droga;IV+;UIAA;6;3;;;;48.9861685;20.7762811;;;;sk-0059;dr-0695
+Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Žliabok;droga;IV+;UIAA;6;3;;;;48.9861685;20.7762811;;;;sk-0059;dr-0696
+Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Pravá;droga;VI-;UIAA;6;4;;;;48.9861685;20.7762811;;;;sk-0059;dr-0697
+Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Karčiho pravačka;droga;VI+;UIAA;7;4;;;;48.9861685;20.7762811;;;;sk-0059;dr-0698
+Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Stredná;droga;VI+;UIAA;6;4;;;;48.9861685;20.7762811;;;;sk-0059;dr-0699
+Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Ľavá;droga;VII-;UIAA;5;3;;;;48.9861685;20.7762811;;;;sk-0059;dr-0700
+Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Hromozvod;droga;VII;UIAA;7;4;;;;48.9861685;20.7762811;;;;sk-0059;dr-0701
+Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Pádová;droga;VII;UIAA;7;4;;;;48.9861685;20.7762811;;;;sk-0059;dr-0702
+Slanské vrchy;Drevenik;Raj;Veža nad sedielkom;;Slon;;VII;UIAA;8;3;;;;48.9861685;20.7762811;;;;sk-0059;dr-0703
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Vstupná cesta var.;droga;III;UIAA;12;5;;;;48.9882173;20.7747656;;;;sk-0045;dr-0704
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Staré časy var.;droga;IV;UIAA;12;5;;;;48.9882173;20.7747656;;;;sk-0045;dr-0705
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Vstupna variant;;IV;UIAA;14;;;;;48.9882173;20.7747656;;;;sk-0045;dr-0706
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Vľavo od starých časov;;IV;UIAA;;;;;;48.9882173;20.7747656;;;;sk-0045;dr-0707
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Stredom;;IV+;UIAA;;;;;;48.9882173;20.7747656;;;;sk-0045;dr-0708
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Táborák;droga;V-;UIAA;14;5;;;;48.9882173;20.7747656;;;;sk-0045;dr-0709
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Cesta mladých;droga;V;UIAA;10;4;;;;48.9882173;20.7747656;;;;sk-0045;dr-0710
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Stary vstup;;V;UIAA;15;;;;;48.9882173;20.7747656;;;;sk-0045;dr-0711
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Staré časy;droga;V;UIAA;12;5;;;;48.9882173;20.7747656;;;;sk-0045;dr-0712
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Vstupná cesta;droga;V;UIAA;12;5;;;;48.9882173;20.7747656;;;;sk-0045;dr-0713
+Slanské vrchy;Drevenik;Raj;Vstupná veža;;Taborovy kamen;;V+;UIAA;12;;;;;48.9882173;20.7747656;;;;sk-0045;dr-0714
+Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Gabriel;droga;V;UIAA;10;3;;;;48.9857689;20.7761469;tak;;;sk-0060;dr-0715
+Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Joffrey;;V;UIAA;9;3;;;;48.98792;20.774535;tak;;;sk-0060;dr-0716
+Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Lucifer;droga;V;UIAA;12;5;;;;48.9857689;20.7761469;tak;;;sk-0060;dr-0717
+Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;666;;V+;UIAA;;;;;;48.9857689;20.7761469;tak;;;sk-0060;dr-0718
+Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Angelika;droga;V+;UIAA;14;4;;;;48.9857689;20.7761469;tak;;;sk-0060;dr-0719
+Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Satan;;V+;UIAA;;;;;;48.9857689;20.7761469;tak;;;sk-0060;dr-0720
+Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Markíza;droga;VI-;UIAA;13;5;;;;48.9857689;20.7761469;tak;;;sk-0060;dr-0721
+Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Cesta anjelov;droga;VI;UIAA;12;5;;;;48.9857689;20.7761469;tak;;;sk-0060;dr-0722
+Slanské vrchy;Drevenik;Raj;Vyhliadková veža;;Sv. Peter;;VI;UIAA;;;;;;48.9857689;20.7761469;tak;;;sk-0060;dr-0723
+Slanské vrchy;Drevenik;Raj;Východný múr;;Marčin kút;;IV;UIAA;20;;;;;48.987469;20.775112;;;;sk-0046;dr-0724
+Slanské vrchy;Drevenik;Raj;Východný múr;;Tradičná;;IV;UIAA;10;;;;;48.9874693;20.7751116;;;;sk-0046;dr-0725
+Slanské vrchy;Drevenik;Raj;Východný múr;;Jarná pieseň;;IV+;UIAA;10;3;;;;48.9874693;20.7751116;;;;sk-0046;dr-0726
+Slanské vrchy;Drevenik;Raj;Východný múr;;Jarná;;V;UIAA;;;;;;48.9874693;20.7751116;;;;sk-0046;dr-0727
+Slanské vrchy;Drevenik;Raj;Východný múr;;Lev;;V;UIAA;;;;;;48.9874693;20.7751116;;;;sk-0046;dr-0728
+Slanské vrchy;Drevenik;Raj;Východný múr;;Stará špára - Východný múr;;V;UIAA;;;;;;48.9874693;20.7751116;;;;sk-0046;dr-0729
+Slanské vrchy;Drevenik;Raj;Východný múr;;Pizza Junky;;VI-;UIAA;;;;;;48.9874693;20.7751116;;;;sk-0046;dr-0730
+Slanské vrchy;Drevenik;Raj;Východný múr;;Fredo - Východný múr;;VI;UIAA;;;;;;48.9874693;20.7751116;;;;sk-0046;dr-0731
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Marčin komín;droga;IV;UIAA;18;;;;;48.9874693;20.7751116;;;;sk-0046;dr-0732
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Okno;droga;V;UIAA;20;3;;;;48.9874693;20.7751116;;;;sk-0046;dr-0733
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Cez lúčku;droga;V+;UIAA;18;7;;;;48.9874693;20.7751116;;;;sk-0046;dr-0734
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Jakubova klietka;droga;V+;UIAA;18;7;;;;48.9874693;20.7751116;;;;sk-0046;dr-0735
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Jarov pilier;droga;V+;UIAA;18;6;;;;48.9874693;20.7751116;;;;sk-0046;dr-0736
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Paklenica;droga;V+;UIAA;18;7;;;;48.9874693;20.7751116;;;;sk-0046;dr-0737
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Žltý motýľ;droga;VI-;UIAA;18;7;;;;48.9874693;20.7751116;;;;sk-0046;dr-0738
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Jozefov bar;droga;VI;UIAA;15;6;;;;48.9874693;20.7751116;;;;sk-0046;dr-0739
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Modrý motýľ;droga;VI;UIAA;18;7;;;;48.9874693;20.7751116;;;;sk-0046;dr-0740
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr I;Správny kľúč;droga;VI;UIAA;18;6;;;;48.9874693;20.7751116;;;;sk-0046;dr-0741
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Východný kút;droga;III+;UIAA;10;;;;;48.9874693;20.7751116;;;;sk-0046;dr-0742
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Pre kurzistov;droga;IV+;UIAA;14;6;;;;48.9874693;20.7751116;;;;sk-0046;dr-0743
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Inštruktážna;droga;V-;UIAA;12;5;;;;48.9874693;20.7751116;;;;sk-0046;dr-0744
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Prísavka;droga;V;UIAA;10;;;;;48.9874693;20.7751116;;;;sk-0046;dr-0745
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Príživník;droga;V;UIAA;10;5;;;;48.9874693;20.7751116;;;;sk-0046;dr-0746
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Robinova;droga;V+;UIAA;12;5;;;;48.9874693;20.7751116;;;;sk-0046;dr-0747
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Technická;droga;VI;UIAA;12;5;;;;48.9874693;20.7751116;;;;sk-0046;dr-0748
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Sedempádová;droga;VII-;UIAA;12;7;;;;48.9874693;20.7751116;;;;sk-0046;dr-0749
+Slanské vrchy;Drevenik;Raj;Východný múr;Východný múr II;Sedempádová direkt;droga;VII;UIAA;12;7;;;;48.9874693;20.7751116;;;;sk-0046;dr-0750
+Slanské vrchy;Drevenik;Raj;Zabudnutá veža;;Starý zárez;;V+;UIAA;;;;;;48.987018;20.774535;tak;;;sk-0061;dr-0751
+Slanské vrchy;Drevenik;Raj;Zabudnutá veža;;Ferdo;;VI;UIAA;15;;;;;;;;;;sk-0061;dr-0752
+Slanské vrchy;Drevenik;Raj;Čertova veža;;Hovadzina;droga;IV;UIAA;14;;;;;48.9858393;20.7762730;;;;sk-0062;dr-0753
+Slanské vrchy;Drevenik;Raj;Čertova veža;;Jarná pieseň;droga;V;UIAA;14;5;;;;48.9858393;20.7762730;;;;sk-0062;dr-0754
+Slanské vrchy;Drevenik;Raj;Čertova veža;;Kokocina;;V;UIAA;;;;;;48.9858393;20.7762730;;;;sk-0062;dr-0755
+Slanské vrchy;Drevenik;Raj;Čertova veža;;Sokolík;;V;UIAA;;;;;;48.9858393;20.7762730;;;;sk-0062;dr-0756
+Slanské vrchy;Drevenik;Raj;Čertova veža;;Diablov kút;;V+;UIAA;13;1;;;;48.9858393;20.7762730;;;;sk-0062;dr-0757
+Slanské vrchy;Drevenik;Raj;Čertova veža;;Nočný pilier;droga;V+;UIAA;14;5;;;;48.9858393;20.7762730;;;;sk-0062;dr-0758
+Slanské vrchy;Drevenik;Raj;Čertova veža;;Who cares;droga;V+;UIAA;12;4;;;;48.9858393;20.7762730;;;;sk-0062;dr-0759
+Slanské vrchy;Drevenik;Raj;Čertova veža;;Labutia pieseň;droga;VI;UIAA;14;4;;;;48.9858393;20.7762730;;;;sk-0062;dr-0760
+Slanské vrchy;Drevenik;Raj;Čertova veža;;Čertova pieseň;;VI;UIAA;12;5;;;;48.985839;20.776273;;;;sk-0062;dr-0761
+Slanské vrchy;Drevenik;Raj;Čertova veža;;I love you;droga;VIII-;UIAA;11;4;;;;48.9858393;20.7762730;;;;sk-0062;dr-0762
+Slanské vrchy;Drevenik;Raj;Čertova veža;;Expanzia;droga;VIII;UIAA;12;4;;;;48.9858393;20.7762730;;;;sk-0062;dr-0763
+Slanské vrchy;Drevenik;Raj;Červená veža;;Severanka;;VI+;UIAA;9;3;;;;48.988304;20.775222;;;;sk-0063;dr-0764
+Slanské vrchy;Drevenik;Peklo;Roklina;;Narovnanie vhĺbenia;;VI;UIAA;;;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0765
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Narovnanie Bushida;;VIII+/IX-;UIAA;;;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0766
+Slanské vrchy;Drevenik;Peklo;Aligátor;;Zárez;;IV+;UIAA;12;3;;;;48.9837350;20.7711473;tak;;;sk-0066;dr-0767
+Slanské vrchy;Drevenik;Peklo;Aligátor;;Aligátor;;V;UIAA;15;4;;;;48.9837350;20.7711473;tak;;;sk-0066;dr-0768
+Slanské vrchy;Drevenik;Peklo;Aligátor;;Malý komín;;V;UIAA;10;3;;;;48.9837350;20.7711473;tak;;;sk-0066;dr-0769
+Slanské vrchy;Drevenik;Peklo;Aligátor;;Zlomená polica;;V;UIAA;10;3;;;;48.9837350;20.7711473;tak;;;sk-0066;dr-0770
+Slanské vrchy;Drevenik;Peklo;Aligátor;;Enzova hrana;;V+;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;sk-0066;dr-0771
+Slanské vrchy;Drevenik;Peklo;Aligátor;;Staré časy;;VI-;UIAA;10;3;;;;48.9837350;20.7711473;tak;;;sk-0066;dr-0772
+Slanské vrchy;Drevenik;Peklo;Aligátor;;Kus-kus;;VI;UIAA;13;3;;;;48.9837350;20.7711473;tak;;;sk-0066;dr-0773
+Slanské vrchy;Drevenik;Peklo;Aligátor;;Muťova puklina;;VI+;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;sk-0066;dr-0774
+Slanské vrchy;Drevenik;Peklo;Aligátor;;Čo-čo;;VI+;UIAA;10;3;;;;48.9837350;20.7711473;tak;;;sk-0066;dr-0775
+Slanské vrchy;Drevenik;Peklo;Kaňon;;Tieňovka;;VI;UIAA;12;4;;;;48.9837350;20.7711473;tak;;;sk-0067;dr-0776
+Slanské vrchy;Drevenik;Peklo;Kaňon;;Ementál;;VI+;UIAA;12;4;;;;48.9837350;20.7711473;tak;;;sk-0067;dr-0777
+Slanské vrchy;Drevenik;Peklo;Kaňon;;Ľavý Tomko;;VII+;UIAA;12;4;;;;48.9837350;20.7711473;tak;;;sk-0067;dr-0778
+Slanské vrchy;Drevenik;Peklo;Kaňon;;Compel;;VIII-;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;sk-0067;dr-0779
+Slanské vrchy;Drevenik;Peklo;Kaňon;;Pozor schod;;VIII-;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;sk-0067;dr-0780
+Slanské vrchy;Drevenik;Peklo;Kaňon;;Pravý Tomko;;VIII-;UIAA;12;4;;;;48.9837350;20.7711473;tak;;;sk-0067;dr-0781
+Slanské vrchy;Drevenik;Peklo;Kaňon;;Kaskáda;;VIII+;UIAA;16;5;;;;48.9837350;20.7711473;tak;;;sk-0067;dr-0782
+Slanské vrchy;Drevenik;Peklo;Kaňon;;Kontraverzia;;VIII+/IX-;UIAA;15;6;;;;48.9837350;20.7711473;tak;;;sk-0067;dr-0783
+Slanské vrchy;Drevenik;Peklo;Kaňon;;Sveťova;;VIII+;UIAA;15;4;;;;48.9837350;20.7711473;tak;;;sk-0067;dr-0784
+Slanské vrchy;Drevenik;Peklo;Roklina;;Vhĺbenie;;V;UIAA;25;8;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0785
+Slanské vrchy;Drevenik;Peklo;Roklina;;Dovidenia v pekle;;VI+;UIAA;25;7;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0786
+Slanské vrchy;Drevenik;Peklo;Roklina;;Levočská;;VII-;UIAA;28;10;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0787
+Slanské vrchy;Drevenik;Peklo;Roklina;;Amerika;;VII;UIAA;20;5;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0788
+Slanské vrchy;Drevenik;Peklo;Roklina;;Tlačenica;;VII;UIAA;28;13;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0789
+Slanské vrchy;Drevenik;Peklo;Roklina;;Pravá skobovačka;;VII+;UIAA;20;6;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0790
+Slanské vrchy;Drevenik;Peklo;Roklina;;Stará skobovačka;;VII+/VIII-;UIAA;22;8;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0791
+Slanské vrchy;Drevenik;Peklo;Roklina;;Kostrč;;VIII-;UIAA;16;5;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0792
+Slanské vrchy;Drevenik;Peklo;Roklina;;Odpočívaj v pokoji;;VIII-/VIII;UIAA;20;6;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0793
+Slanské vrchy;Drevenik;Peklo;Roklina;;Sliepkovi na pamiatku;;VIII-;UIAA;24;7;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0794
+Slanské vrchy;Drevenik;Peklo;Roklina;;Kuchárska kniha;;VIII;UIAA;22;8;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0795
+Slanské vrchy;Drevenik;Peklo;Roklina;;Mix;;VIII;UIAA;25;10;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0796
+Slanské vrchy;Drevenik;Peklo;Roklina;;Pukyho hrana;;VIII;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0797
+Slanské vrchy;Drevenik;Peklo;Roklina;;Stará skobovačka variant;;VIII;UIAA;22;8;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0798
+Slanské vrchy;Drevenik;Peklo;Roklina;;Tepša;;VIII;UIAA;15;4;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0799
+Slanské vrchy;Drevenik;Peklo;Roklina;;Cap;;VIII+;UIAA;22;6;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0800
+Slanské vrchy;Drevenik;Peklo;Roklina;;Návrat domov;;VIII+;UIAA;20;6;;;;48.9837350;20.7711473;tak;;;sk-0064;dr-0801
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Komín;;V+;UIAA;;;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0802
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;50-tka;;VI;UIAA;18;6;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0803
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Pre Janku;;VI;UIAA;14;;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0804
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Rohová cesta;;VI;UIAA;;;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0805
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Posledný sex;;VI+;UIAA;;7;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0806
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Soňa;;VI+;UIAA;;;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0807
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Bushido;;VII+;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0808
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Európa;;VII+;UIAA;;;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0809
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Travertínové bjú;;VII+;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0810
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Vitajte v pekle;;VII+;UIAA;12;4;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0811
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Big Ben;;VIII-;UIAA;18;7;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0812
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Modrá knižka;;VIII-/VIII;UIAA;20;;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0813
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Všetko alebo nič;;VIII-;UIAA;22;9;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0814
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Dabl;;VIII;UIAA;20;5;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0815
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Kamufláž;;VIII;UIAA;20;8;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0816
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Prešovské Requiem;;VIII;UIAA;16;8;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0817
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Rambo;;VIII/VIII+;UIAA;19;8;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0818
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Tomečkova;;VIII;UIAA;17;6;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0819
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Vybitá;;VIII+/IX-;UIAA;15;7;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0820
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Balet hviezd;;IX-;UIAA;20;7;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0821
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Bonjour France;;IX-/IX;UIAA;17;5;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0822
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Naviažte sa prosím;;IX-/IX;UIAA;;4;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0823
+Slanské vrchy;Drevenik;Peklo;Západný múr I;;Svitanie;;IX-;UIAA;27;11;;;;48.9837350;20.7711473;tak;;;sk-0065;dr-0824
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Spišský párok;;V;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0825
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Západná špára;;V;UIAA;15;4;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0826
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Lámavý kút;;V+;UIAA;15;4;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0827
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Vlašanka;;VI;UIAA;16;5;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0828
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Šamova;;VI;UIAA;17;6;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0829
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Širočina;;VI;UIAA;17;4;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0830
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Highway to hell;;VI+;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0831
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Pekelný raj;;VI+;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0832
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Pepek;;VI+;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0833
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Tobogan;;VI+;UIAA;17;6;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0834
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Pekelná dovolenka;;VII-;UIAA;17;6;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0835
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Stradavia;;VII-;UIAA;17;6;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0836
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Stagnácia;;VII/VII+;UIAA;14;4;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0837
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Mzda strachu;;VII+;UIAA;25;9;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0838
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Podlaha;;VII+;UIAA;16;5;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0839
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Večný dážď;;VII+;UIAA;25;9;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0840
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Popradská;;VIII-;UIAA;25;8;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0841
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Trip;;VIII-;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0842
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Čím ďalej, tým lepšie;;VIII-;UIAA;23;9;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0843
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Duniaci hrom;;VIII;UIAA;23;9;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0844
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Gule;;VIII;UIAA;23;5;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0845
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Hifi;;VIII;UIAA;18;4;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0846
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Oheň v oblakoch;;VIII;UIAA;15;5;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0847
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Hazardná hra;;VIII+/IX-;UIAA;23;8;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0848
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Indián;;VIII+/IX-;UIAA;24;6;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0849
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;JTPDFM memory;;VIII+;UIAA;22;6;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0850
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Kovanie reťaze;;VIII+;UIAA;15;4;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0851
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Prešovský smer;;VIII+;UIAA;25;9;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0852
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Spoločná Láska;;VIII+;UIAA;23;9;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0853
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Stratený v smeti;;VIII+;UIAA;23;8;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0854
+Slanské vrchy;Drevenik;Peklo;Západný múr II;;Zajtra to dám;;VIII+;UIAA;23;8;;;;48.9837350;20.7711473;tak;;;sk-0068;dr-0855
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Božskej Kája;;V;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0856
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Kolmá;;V;UIAA;;;;;;48.979796;20.781073;;;;sk-0069;dr-0857
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Krátka;;V+;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0858
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Britva;;VI-;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0859
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Biely traverz;;VI+;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0860
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Kasiopea;;VI+;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0861
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Mistr Šnicl;;VII-;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0862
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Stará špára;;VII-;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0863
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Stará cesta;;VII;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0864
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Mistr Spit;;VII+;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0865
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;TR;;VII+;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0866
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Nová cesta;;VIII-;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0867
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Poslanie;;VIII+;UIAA;15;4;;;;48.9797936;20.7810688;;;;sk-0069;dr-0868
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;No smoking;;IX-;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0869
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Desaťmínus;;IX/IX+;UIAA;20;5;;;;48.9797936;20.7810688;;;;sk-0069;dr-0870
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Desaťmínus originál;;IX/IX+;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0871
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Klaris;;IX;UIAA;10;4;;;;48.9797936;20.7810688;;;;sk-0069;dr-0872
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Chromosone X;;IX+/X-;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0873
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Mikádo;;IX+/X-;UIAA;20;4;;;;48.9797936;20.7810688;;;;sk-0069;dr-0874
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Vždy máme čas;;IX+;UIAA;;;;;;48.9797936;20.7810688;;;;sk-0069;dr-0875
+Slanské vrchy;Drevenik;Červené previsy;Červené previsy;;Poludňajší blesk;;X-;UIAA;20;3;;;;48.9797936;20.7810688;;;;sk-0069;dr-0876

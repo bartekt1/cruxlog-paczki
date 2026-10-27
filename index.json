@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updated": "2026-10-23T14:36:17.782Z",
+  "updated": "2026-10-27T07:59:37.290Z",
   "packs": [
     {
       "id": "skalki-czarnorzeckie-kamieniec",
@@ -90,6 +90,60 @@
         49.743581,
         21.821214,
         49.743972
+      ]
+    },
+    {
+      "id": "drevenik-cervene-previsy",
+      "name": "Červené previsy",
+      "region": "Slanské vrchy",
+      "area": "Drevenik",
+      "crags": 1,
+      "routes": 21,
+      "version": 1,
+      "sha1": "f4bf35d7b7aa9fe853a26fb37ee8597209f0c1aa",
+      "bytes": 2914,
+      "file": "paczki/drevenik-cervene-previsy.csv",
+      "bbox": [
+        20.7810688,
+        48.9797936,
+        20.781073,
+        48.979796
+      ]
+    },
+    {
+      "id": "drevenik-peklo",
+      "name": "Peklo",
+      "region": "Slanské vrchy",
+      "area": "Drevenik",
+      "crags": 5,
+      "routes": 91,
+      "version": 1,
+      "sha1": "281798016a2036b4bfc43650ed992d06a1f7544b",
+      "bytes": 11213,
+      "file": "paczki/drevenik-peklo.csv",
+      "bbox": [
+        20.7711473,
+        48.983735,
+        20.7711473,
+        48.983735
+      ]
+    },
+    {
+      "id": "drevenik-raj",
+      "name": "Raj",
+      "region": "Slanské vrchy",
+      "area": "Drevenik",
+      "crags": 19,
+      "routes": 249,
+      "version": 1,
+      "sha1": "b4b3b0948b4ae8848438e59fa062622b0537dc27",
+      "bytes": 29830,
+      "file": "paczki/drevenik-raj.csv",
+      "bbox": [
+        20.774251,
+        48.9857689,
+        20.7762811,
+        48.9883753
       ]
     }
   ]
