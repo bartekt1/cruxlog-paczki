@@ -2,6 +2,9 @@
 //  1. Nadaje brakujące numery: ID_skały (sk-0001…) i ID_drogi (dr-0001…), kolejne w całej bazie, i wpisuje je do pliku bazy.
 //     Wiersz bez numeru, który był już kiedyś zbudowany (ta sama skała, sektor i nazwa), dostaje swój dawny numer
 //     (pamięć numerów: narzedzia/numery.json), więc poprawienie starej kopii pliku nie robi nowych dróg.
+//  0. Sprawdza każdy wiersz tak jak aplikacja przy pobieraniu paczki: wypełnione Region, Rejon, Skała, Nazwa, Wycena,
+//     znany typ i skala wycen, wycena, którą aplikacja rozpozna. Wiersz z błędem aplikacja by pominęła, więc paczki
+//     nie są wtedy budowane.
 //  2. Sprawdza, czy numer nie powtarza się przy dwóch różnych drogach albo skałach.
 //  3. Dzieli bazę na paczki: jedna paczka = jedna grupa skał (pierwszy poziom kolumny Grupa); skały bez grupy trafiają do
 //     paczki "<Rejon> – pozostałe skały". Zapisuje paczki/<id>.csv, spis index.json i NASTEPNE_NUMERY.txt.
@@ -71,6 +74,40 @@ const tables = files.map((f) => {
 if (problems.length) fail();
 const rows = tables.flatMap((t) => t.rows);
 const get = (r, c) => r.cells.get(c) ?? '';
+
+// ---- 0. Rows ---------------------------------------------------------------------------------------------------------
+// The same rules as the app's import (src/domain/flatImport.ts and grades.ts in the app's repository); keep them in step.
+const TYPES = new Set(['', 'sport', 'droga', 'route', 'multipitch', 'wielowyciag']);
+const LADDER = {
+  kr: ['III', 'IV', 'V', 'V+', 'VI', 'VI.1', 'VI.1+', 'VI.2', 'VI.2+', 'VI.3', 'VI.3+', 'VI.4', 'VI.4+', 'VI.5', 'VI.5+', 'VI.6', 'VI.6+', 'VI.7', 'VI.7+', 'VI.8', 'VI.8+'],
+  uiaa: ['III', 'IV', 'V', 'V+', 'VI', 'VI+', 'VII-', 'VII', 'VII+', 'VIII-', 'VIII-', 'VIII', 'VIII+', 'IX-', 'IX', 'IX+', 'X-', 'X', 'X+', 'XI-', 'XI'],
+  fr: ['3', '4a', '5a', '5b', '5c', '6a', '6a+', '6b', '6b+', '6c', '6c+', '7a', '7a+', '7b', '7b+', '7c', '7c+', '8a', '8a+', '8b', '8b+'],
+};
+const gradeNorm = (g) => g.trim().replace(/\s+/g, '').toUpperCase();
+const onLadder = (g, sys) => LADDER[sys].some((x) => gradeNorm(x) === g);
+/** Whether the app can read grade `label` in system `sys` (the app's parseGrade: "VI.4/4+" by its first part, "VI-" a step lower…). */
+function gradeKnown(label, sys) {
+  const g = gradeNorm(label);
+  if (!g) return false;
+  if (onLadder(g, sys)) return true;
+  const first = g.replace(/\?+$/, '').split('/')[0];
+  if (!first) return false;
+  if (onLadder(first, sys)) return true;
+  const bare = first.replace(/[+-]$/, '');
+  if ((sys === 'kr' || sys === 'uiaa') && (bare === 'I' || bare === 'II')) return true;
+  return /[+-]$/.test(first) && onLadder(bare, sys);
+}
+for (const r of rows) {
+  const where = `${r.file}, wiersz ${r.line}${get(r, 'Nazwa') ? ` (${get(r, 'Nazwa')})` : ''}`;
+  if (fold(get(r, 'Typ')) === 'boulder') { problems.push(`${where}: typ boulder – aplikacja nie ma boulderów, usuń ten wiersz`); continue; }
+  const empty = ['Region', 'Rejon', 'Skała', 'Nazwa', 'Wycena'].filter((c) => !get(r, c));
+  if (empty.length) { problems.push(`${where}: brak ${empty.join(', ')}`); continue; }
+  if (!TYPES.has(fold(get(r, 'Typ')))) { problems.push(`${where}: nieznany typ „${get(r, 'Typ')}” (wpisz droga albo wielowyciąg, albo zostaw puste)`); continue; }
+  const sys = (get(r, 'Skala_wycen') || 'kr').toLowerCase();
+  if (!LADDER[sys]) { problems.push(`${where}: nieznana skala wycen „${get(r, 'Skala_wycen')}” (kr, uiaa albo fr)`); continue; }
+  if (!gradeKnown(get(r, 'Wycena'), sys)) problems.push(`${where}: aplikacja nie rozpozna wyceny „${get(r, 'Wycena')}” w skali ${sys}`);
+}
+if (problems.length) fail();
 
 // ---- 1. Numbers --------------------------------------------------------------------------------------------------
 const memoryPath = join(ROOT, 'narzedzia', 'numery.json');
@@ -178,6 +215,7 @@ if (filled) console.log(`Nadane numery: ${filled} wierszy.`);
 for (const p of out) console.log(`${p.id}: ${p.name} (${p.region} › ${p.area}) skał ${p.crags}, dróg ${p.routes}, wersja ${p.version}`);
 
 function fail() {
-  console.error(`Paczki NIE zostały zbudowane:\n${problems.slice(0, 30).join('\n')}`);
+  const more = problems.length > 40 ? `\n… i jeszcze ${problems.length - 40}` : '';
+  console.error(`Paczki NIE zostały zbudowane (problemów: ${problems.length}):\n${problems.slice(0, 40).join('\n')}${more}`);
   process.exit(1);
 }
